@@ -122,6 +122,7 @@ controltower
 coredump
 corsrule
 crd
+CRDs
 credentialreportentry
 creds
 crt
@@ -382,6 +383,7 @@ Mondoo
 mondooacr
 mondooapp
 mondooauditconfig
+mondooauditconfigs
 mondoohq
 mondoolabs
 mondoooperatorconfigs
@@ -620,6 +622,7 @@ usr
 UTF
 uuid
 validatingwebhookconfiguration
+validatingwebhookconfigurations
 vaultrecoverypoint
 vcenter
 vcpu
