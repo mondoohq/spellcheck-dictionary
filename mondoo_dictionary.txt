@@ -80,6 +80,7 @@ bubbletea
 bugfix
 Buildingasoftwareproject
 buildroot
+buildspec
 Bundesamt
 CAcreateserial
 Cbatch
@@ -103,6 +104,7 @@ cloudshell
 clusterrole
 clusterrolebinding
 clusterrolebindings
+clusterroles
 cmdlets
 cmds
 cnqueries
@@ -180,6 +182,7 @@ domaindnsrecord
 domainkey
 domainlist
 domainname
+dotnet
 dql
 drs
 DTDs
@@ -397,6 +400,7 @@ mondoohq
 mondoolabs
 mondoooperatorconfigs
 mountpoint
+mountpoints
 mozilla
 mql
 MQL
@@ -494,6 +498,7 @@ raspberrypi
 raspi
 rdata
 rebootpending
+redhat
 redis
 registrationtoken
 REGISTRATIONTOKEN
@@ -503,6 +508,7 @@ relatime
 Releasebuild
 releasever
 replicaset
+replicasets
 repodata
 resourcechange
 resourcemanager
@@ -624,6 +630,7 @@ ubuntu
 udev
 uid
 Unassigns
+uninstallable
 uninstalling
 upcase
 url
