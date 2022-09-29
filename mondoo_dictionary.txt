@@ -8,6 +8,7 @@ agentmrn
 AKS
 almalinux
 amd
+ansible
 apiserver
 architected
 aristaeos
@@ -37,6 +38,7 @@ bpke
 BPM
 branchprotection
 breadcrumb
+breadcrumbs
 bsi
 BSU
 btrfs
@@ -74,6 +76,7 @@ cswitch
 ctop
 customresource
 cve
+cves
 CVSS
 DACH
 daemonset
@@ -167,6 +170,7 @@ kubeconfig
 kubectl
 kubelet
 kubeletconfigpath
+kubelets
 kubernetes
 Kubernetes
 Kyleen
