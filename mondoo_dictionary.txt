@@ -16,6 +16,7 @@ chardevs
 circleci
 cmdlets
 cmds
+cnqueries
 cnquery
 cnspec
 coffeescript
@@ -23,6 +24,7 @@ config
 cswitch
 ctop
 dbed
+digitalocean
 drs
 dvs
 eapi
@@ -105,10 +107,12 @@ vcsim
 VDS
 veos
 vib
+vibs
 virtualbox
 vmk
 vmkernel
 vmnic
+vmnics
 VMs
 vmw
 vmware
