@@ -6,6 +6,7 @@ admissionrequest
 admissionreview
 agentid
 agentless
+Agentless
 agentmrn
 AKS
 almalinux
@@ -14,6 +15,7 @@ amazondynamodb
 amazonlinux
 amd
 amzn
+andrewclayshafer
 ansible
 apipermissions
 apiresource
@@ -32,6 +34,7 @@ aspf
 aspmx
 asseterror
 ata
+atomico
 atp
 Auditd
 authn
@@ -41,6 +44,7 @@ authz
 autoclaim
 autoload
 automount
+autoplay
 aws
 awscli
 awscloudtrail
@@ -54,6 +58,7 @@ azuredocker
 azurerm
 azureuser
 backends
+backsplash
 baremetal
 basearch
 baseos
@@ -69,6 +74,7 @@ botfather
 BPDU
 bpke
 BPM
+bradleyhorowitz
 branchprotection
 breadcrumb
 breadcrumbs
@@ -83,6 +89,7 @@ buildroot
 buildspec
 Bundesamt
 CAcreateserial
+calligo
 Cbatch
 cci
 certinfo
@@ -91,11 +98,14 @@ changeme
 chardevs
 charlesjohnson
 chatid
+chatops
+Choi
 chris
 chrony
 cicd
 circleci
 cisecurity
+CISO
 clickable
 cloudbees
 cloudbuild
@@ -129,7 +139,9 @@ CRDs
 credentialreportentry
 creds
 crt
+CSPM
 cswitch
+cta
 ctop
 CTYPE
 customevent
@@ -140,6 +152,7 @@ CVEs
 cvss
 CVSS
 CVSSv
+cyberattacks
 DACH
 daemonset
 daemonsets
@@ -166,6 +179,7 @@ devguide
 devicecompliancepolicy
 deviceconfiguration
 devicemanagement
+devsec
 DHBEXAMPLE
 diagnosticsetting
 digitalocean
@@ -219,6 +233,8 @@ expirydates
 extfile
 facebook
 FAQs
+favicon
+favicons
 fedoraproject
 fieldname
 figcaption
@@ -229,11 +245,13 @@ finalizers
 firewallrule
 flowlog
 flowlogs
+Forsgren
 fpath
 FQDNs
 fstype
 ftp
 fwupd
+garmeeh
 gce
 gcloud
 gcos
@@ -261,6 +279,7 @@ google
 googleapis
 googlecompute
 googledomains
+googletagmanager
 GOPRIVATE
 goprocinfo
 gopsutil
@@ -274,10 +293,13 @@ grantae
 gserviceaccount
 gshadow
 GSSAPI
+gtm
+GTM
 guestinfo
 Gugan
 gui
 harddisk
+hashi
 Hashi
 hashicorp
 hashivault
@@ -293,14 +315,17 @@ html
 https
 HVM
 ICMPv
+iframe
 imagedefinitions
 imageid
 imdsv
 img
+Img
 inactivedays
 inclusionsetting
 Informationstechnik
 initcontainer
+instagram
 interfacea
 internetgateway
 ipinterface
@@ -343,6 +368,7 @@ kubernetes
 Kubernetes
 Kyleen
 lastchanged
+ldquo
 libata
 libcroco
 libcurl
@@ -386,6 +412,8 @@ metricstatistics
 mgmt
 mindays
 minikube
+Mirko
+mirkonovakovic
 mirrorlist
 misconfigurations
 mkdir
@@ -399,6 +427,8 @@ mondooauditconfig
 mondooauditconfigs
 mondoohq
 mondoolabs
+Mondoonaut
+Mondoonauts
 mondoooperatorconfigs
 mountpoint
 mountpoints
@@ -429,18 +459,22 @@ ndb
 networkacl
 networkpolicy
 newbot
+nextjs
 nfs
 nfsnobody
 nic
 nics
 nologin
+noopener
 nopassword
 noquota
 notebookinstance
+Novakovic
 ntp
 ntpconfig
 ntpsetting
 nulllist
+NUOI
 nvd
 nyc
 ocsp
@@ -495,9 +529,12 @@ pubkey
 pwsh
 QEm
 quickstart
+Quidenus
+rarr
 raspberrypi
 raspi
 rdata
+rdquo
 rebootpending
 redhat
 redis
@@ -526,6 +563,7 @@ routetable
 rpc
 rpcuser
 rsa
+rsquo
 rsyslog
 Rsyslog
 ruleset
@@ -547,6 +585,9 @@ Sectigo
 securityconfig
 securityrule
 securityscore
+seo
+Seo
+SEO
 serverfault
 serviceaccount
 serviceaccounts
@@ -560,6 +601,7 @@ sharepointonline
 shirou
 Sicherheit
 sid
+signup
 sigs
 sku
 sleepsonthefloor
@@ -625,6 +667,7 @@ timezone
 Tinyproxy
 toc
 ttl
+typescriptlang
 ubios
 Ubiquiti
 ubuntu
@@ -635,6 +678,7 @@ uninstallable
 uninstalling
 upcase
 url
+Usecase
 usercredentialreportentry
 userguide
 userinfo
@@ -652,6 +696,7 @@ vcpu
 vcsim
 VDS
 veos
+vercel
 versioned
 vgwtelemetry
 vib
@@ -676,6 +721,7 @@ vpx
 vsan
 vsphere
 vswitch
+Wahlforss
 warndays
 westus
 wikipedia
