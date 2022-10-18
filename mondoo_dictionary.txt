@@ -106,6 +106,7 @@ chardevs
 charlesjohnson
 chatid
 chatops
+checkbox
 Choi
 chris
 chrony
@@ -473,8 +474,8 @@ mondoooperatorconfigs
 mountpoint
 mountpoints
 mozilla
-mql
 MPLv
+mql
 MQL
 mrn
 MRN
