@@ -361,6 +361,7 @@ initcontainer
 instagram
 instana
 interfacea
+INSTANCEID
 internetgateway
 ipinterface
 ippermission
@@ -614,6 +615,7 @@ respawn
 restapi
 RKE
 roadmap
+rockylinux
 roleassignment
 rolebinding
 rolebindings
@@ -669,6 +671,7 @@ sku
 sleepsonthefloor
 SLES
 Slideshows
+SNAPSHOTID
 snapshots
 sni
 snmp
@@ -790,6 +793,7 @@ vms
 VMs
 vmw
 vmware
+VOLUMEID
 vpnconnection
 vpx
 vsan
