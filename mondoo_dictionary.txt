@@ -816,6 +816,7 @@ XMODIFIERS
 xyrt
 yalow
 yaml
+yourdomain
 yourname
 yourorg
 yourtoken
