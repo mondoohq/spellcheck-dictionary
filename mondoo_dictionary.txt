@@ -21,6 +21,7 @@ ansible
 apipermissions
 apiresource
 apiserver
+appex
 applicationautoscaling
 appsite
 appsiteauthsettings
@@ -345,6 +346,8 @@ Hpeo
 html
 https
 HVM
+Icann
+ICANN
 ICMPv
 iframe
 imagedefinitions
@@ -360,8 +363,8 @@ Informationstechnik
 initcontainer
 instagram
 instana
-interfacea
 INSTANCEID
+interfacea
 internetgateway
 ipinterface
 ippermission
@@ -740,10 +743,12 @@ Tinyproxy
 toc
 ttl
 typescriptlang
+uac
 ubios
 Ubiquiti
 ubuntu
 udev
+udp
 UEFI
 uid
 uids
@@ -816,6 +821,7 @@ xccdf
 XCCDF
 xdev
 xen
+xfs
 XMODIFIERS
 xyrt
 yalow
