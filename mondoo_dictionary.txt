@@ -345,6 +345,8 @@ Hpeo
 html
 https
 HVM
+Icann
+ICANN
 ICMPv
 iframe
 imagedefinitions
@@ -741,6 +743,7 @@ ubios
 Ubiquiti
 ubuntu
 udev
+udp
 UEFI
 uid
 uids
