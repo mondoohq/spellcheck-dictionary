@@ -1,5 +1,6 @@
 accessanalyzer
 adkim
+admins
 Admins
 admissionregistration
 admissionrequest
@@ -369,6 +370,7 @@ internetgateway
 ipinterface
 ippermission
 iptable
+isp
 issuecomment
 jaym
 jenkins
@@ -709,6 +711,7 @@ sth
 stig
 stp
 subcategoryguid
+subdomain
 subscriptionid
 supplychain
 suse
