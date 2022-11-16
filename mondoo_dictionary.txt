@@ -311,6 +311,7 @@ googleapis
 googlecompute
 googledomains
 googletagmanager
+googleworkspace
 GOPRIVATE
 goprocinfo
 gopsutil
@@ -696,6 +697,7 @@ sse
 ssh
 sshfs
 sshkey
+SSPM
 stackdriver
 Stackdriver
 stackset
