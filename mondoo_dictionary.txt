@@ -322,6 +322,7 @@ gpgcheck
 gpgkey
 gpgsignature
 grantae
+grayscale
 gserviceaccount
 gshadow
 GSSAPI
