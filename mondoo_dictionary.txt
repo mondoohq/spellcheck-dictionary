@@ -42,6 +42,7 @@ atp
 auditctl
 auditd
 Auditd
+augenrules
 authn
 authorizedkeys
 AUTHPRIV
@@ -362,6 +363,7 @@ img
 Img
 inactivedays
 inclusionsetting
+inetd
 Informationstechnik
 initcontainer
 instagram
@@ -634,6 +636,7 @@ rpc
 rpcuser
 rsa
 rsquo
+rsyncd
 rsyslog
 Rsyslog
 ruleset
