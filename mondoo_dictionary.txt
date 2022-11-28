@@ -762,6 +762,7 @@ UEFI
 uid
 uids
 Unassigns
+uncompress
 uninstallable
 uninstalling
 upcase
