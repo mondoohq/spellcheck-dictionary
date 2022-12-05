@@ -782,6 +782,7 @@ uuid
 validatingwebhookconfiguration
 validatingwebhookconfigurations
 vaultrecoverypoint
+vcd
 vcenter
 vcpu
 vcsim
