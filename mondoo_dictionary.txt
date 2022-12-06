@@ -530,6 +530,7 @@ noquota
 notebookinstance
 Novakovic
 nsa
+NSX
 NTFS
 ntlm
 NTLM
@@ -574,6 +575,7 @@ poincare
 policybundle
 policytarget
 policyversion
+Portgroup
 portgroups
 portrange
 Postgre
@@ -786,6 +788,8 @@ vcd
 vcenter
 vcpu
 vcsim
+vdc
+VDCs
 VDS
 veos
 vercel
@@ -816,6 +820,8 @@ vsan
 vsftp
 VSFTP
 vsftpd
+vsm
+VSM
 vsphere
 vswitch
 Wahlforss
