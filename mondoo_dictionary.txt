@@ -266,6 +266,7 @@ favicon
 favicons
 fedoraproject
 fieldname
+fieldset
 figcaption
 fileposition
 fileraspi
