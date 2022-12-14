@@ -497,6 +497,7 @@ msteams
 mstinterface
 mstp
 MSTP
+MSU
 mtu
 Mundrawala
 mxrecord
@@ -511,6 +512,7 @@ mywebserver
 nbsp
 ndb
 networkacl
+networkd
 networkpolicy
 newbot
 newtron
@@ -736,6 +738,7 @@ sysvinit
 tada
 taussig
 TCD
+Tcl
 tcp
 tcpdump
 teamcity
@@ -754,6 +757,7 @@ timezone
 tinyproxy
 Tinyproxy
 toc
+tsmith
 ttl
 typescriptlang
 uac
