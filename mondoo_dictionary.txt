@@ -591,6 +591,7 @@ printf
 prioritization
 privatekey
 privilegerights
+proactively
 procfs
 proposedchange
 protobuf
