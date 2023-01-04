@@ -591,6 +591,7 @@ portgroups
 portrange
 Postgre
 postgresql
+powershellgallery
 powershellsdk
 Preinstalled
 prereqs
