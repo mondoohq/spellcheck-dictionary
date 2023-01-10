@@ -145,6 +145,7 @@ configmaps
 containerd
 controlplane
 controltower
+coredns
 coredump
 corsrule
 cramfs
@@ -206,6 +207,7 @@ diagnosticsetting
 digitalocean
 dind
 DISTRO
+Distroless
 distros
 dkimrecord
 dkr
