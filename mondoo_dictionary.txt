@@ -71,6 +71,7 @@ basearch
 baseos
 bcicen
 benr
+berglas
 bezier
 BITBUCKET
 bitlocker
@@ -616,6 +617,7 @@ QEm
 quickstart
 Quidenus
 ransomware
+rapportd
 rarr
 raspberrypi
 raspi
@@ -854,6 +856,7 @@ wikipedia
 winrm
 wireformat
 Wmi
+workaround
 workarounds
 www
 xccdf
