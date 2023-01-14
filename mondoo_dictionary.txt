@@ -555,6 +555,7 @@ nvd
 nyc
 ocsp
 OCSP
+openpgp
 openshift
 operatorframework
 operatorhub
@@ -573,6 +574,7 @@ peerings
 pegueros
 pem
 personalise
+PGP
 phish
 phishing
 pid
