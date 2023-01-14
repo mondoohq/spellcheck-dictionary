@@ -184,6 +184,7 @@ Datacenter
 datacenters
 dataloss
 datapoints
+dataproc
 datareport
 datasources
 dbcluster
@@ -342,6 +343,7 @@ Hashi
 hashicorp
 hashivault
 haslett
+HDF
 heatmap
 helmify
 HKEY
@@ -464,6 +466,7 @@ mdash
 mdm
 MDM
 mergerequest
+metastore
 metricdimension
 metricsalarm
 metricsfilter
@@ -721,6 +724,7 @@ spf
 spyware
 Spyware
 SREs
+ssd
 sse
 ssh
 sshfs
