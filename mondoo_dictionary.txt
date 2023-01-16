@@ -725,6 +725,7 @@ spyware
 Spyware
 SREs
 ssd
+ssds
 sse
 ssh
 sshfs
