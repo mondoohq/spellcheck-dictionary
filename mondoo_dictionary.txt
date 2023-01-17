@@ -448,6 +448,7 @@ loglevel
 Logon
 logprofile
 LSA
+LTS
 lunalectric
 macbook
 MacBook
