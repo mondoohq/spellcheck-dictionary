@@ -593,6 +593,7 @@ podman
 podsecuritypolicy
 poincare
 policybundle
+Policyfile
 policytarget
 policyversion
 Portgroup
