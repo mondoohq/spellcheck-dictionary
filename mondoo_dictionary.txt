@@ -231,6 +231,7 @@ downcase
 dql
 drs
 DTDs
+DVD
 dvs
 eapi
 eastus
@@ -441,6 +442,7 @@ linkedin
 linting
 loadbalancer
 loadbalancers
+localdomain
 loggroup
 logindef
 logindefs
@@ -463,6 +465,7 @@ mariadb
 mariannatessel
 maxauthtries
 maxdays
+MBP
 mdash
 mdm
 MDM
