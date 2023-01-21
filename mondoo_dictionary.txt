@@ -33,6 +33,7 @@ aristaeos
 aristanetworks
 arlimus
 arttor
+ASLR
 aspf
 aspmx
 asseterror
@@ -216,6 +217,7 @@ dkr
 dmarc
 dmi
 dmsetup
+dmz
 dnssec
 DNSSEC
 DNT
@@ -666,6 +668,7 @@ rpc
 rpcuser
 rrdatas
 rsa
+rsh
 rsquo
 rsyncd
 rsyslog
