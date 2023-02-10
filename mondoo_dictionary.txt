@@ -690,6 +690,7 @@ runningconfig
 Runtimes
 salesforce
 sbin
+SBOM
 scliscan
 scorecards
 scottford
