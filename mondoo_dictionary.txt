@@ -229,6 +229,7 @@ DNT
 dockerhub
 dockerimage
 Docu
+dokken
 domaindnsrecord
 domainkey
 domainlist
@@ -831,6 +832,7 @@ username
 usernames
 USERTRUST
 usr
+utf
 UTF
 uuid
 validatingwebhookconfiguration
