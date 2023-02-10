@@ -1,5 +1,4 @@
 accessanalyzer
-mvd
 adkim
 admins
 Admins
@@ -78,8 +77,10 @@ bezier
 BITBUCKET
 bitlocker
 blackburn
+blindsided
 blogs
 Bluetooth
+boomstats
 bootbank
 botfather
 BPDU
@@ -243,6 +244,7 @@ easyredir
 ebtables
 ecdsa
 ecr
+ECSPM
 edocker
 Elasti
 emoji
@@ -520,6 +522,7 @@ MSTP
 MSU
 mtu
 Mundrawala
+mvd
 mxrecord
 mybucket
 myidbot
