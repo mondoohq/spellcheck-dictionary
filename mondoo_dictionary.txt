@@ -120,6 +120,7 @@ chris
 chrony
 chronyd
 cicd
+CIEM
 circleci
 cisa
 cisecurity
@@ -176,6 +177,7 @@ CVEs
 cvss
 CVSS
 CVSSv
+CWPP
 cyberattacks
 Cygwin
 DACH
@@ -548,13 +550,16 @@ nicolefv
 nics
 nodev
 noexec
+nofollow
 nogroup
+noindex
 nologin
 noopener
 nopassword
 noquota
 notebookinstance
 Novakovic
+nowrap
 nsa
 NSX
 NTFS
