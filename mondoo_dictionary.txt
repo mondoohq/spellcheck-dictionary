@@ -453,6 +453,7 @@ Kyleen
 LANs
 lastchanged
 ldquo
+LGPE
 libata
 libcroco
 libcurl
@@ -465,6 +466,8 @@ libudev
 linkedin
 linting
 lithammer
+LLSRPC
+LMHOSTS
 loadbalancer
 loadbalancers
 localdomain
@@ -477,6 +480,7 @@ logprofile
 LSA
 LSARPC
 LTS
+luks
 lunalectric
 macbook
 MacBook
