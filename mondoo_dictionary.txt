@@ -121,6 +121,7 @@ chrony
 chronyd
 cicd
 CIEM
+CIFS
 circleci
 cisa
 cisecurity
@@ -242,6 +243,7 @@ drs
 DTDs
 DVD
 dvs
+EACCES
 eapi
 eastus
 easyredir
@@ -391,6 +393,7 @@ ingressresourceref
 ingressrule
 ingressservicebackend
 initcontainer
+insmod
 instagram
 instana
 INSTANCEID
@@ -435,8 +438,8 @@ kubeadmin
 kubeconfig
 kubectl
 kubelet
-kubeletconfigpath
 kubelet's
+kubeletconfigpath
 kubelets
 kubernetes
 Kubernetes
@@ -454,6 +457,7 @@ libsystemd
 libudev
 linkedin
 linting
+lithammer
 loadbalancer
 loadbalancers
 localdomain
@@ -542,6 +546,7 @@ mysql
 mywebserver
 nbsp
 ndb
+netctl
 networkacl
 networkd
 networkpolicy
@@ -549,6 +554,7 @@ newbot
 newtron
 nextjs
 nfs
+nfsd
 nfsnobody
 nftables
 nic
@@ -621,6 +627,7 @@ policyversion
 Portgroup
 portgroups
 portrange
+POSIX
 Postgre
 postgresql
 powershellgallery
@@ -734,6 +741,7 @@ sku
 sleepsonthefloor
 SLES
 Slideshows
+smbd
 SNAPSHOTID
 snapshots
 sni
