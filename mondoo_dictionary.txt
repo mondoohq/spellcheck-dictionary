@@ -468,6 +468,7 @@ libudev
 linkedin
 linting
 lithammer
+LLMNR
 LLSRPC
 LMHOSTS
 loadbalancer
@@ -669,6 +670,7 @@ protos
 provisioners
 psp
 pubkey
+pwpolicy
 pwsh
 QEm
 quickstart
@@ -764,10 +766,12 @@ SIDs
 signup
 sigs
 sku
+Skype
 sleepsonthefloor
 SLES
 Slideshows
 smbd
+SMBv
 SNAPSHOTID
 snapshots
 sni
@@ -883,6 +887,7 @@ USERTRUST
 usr
 utf
 UTF
+utmp
 uuid
 validatingwebhookconfiguration
 validatingwebhookconfigurations
