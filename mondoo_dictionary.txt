@@ -110,6 +110,7 @@ CCPA
 CDs
 certinfo
 certs
+CHACHA
 changeme
 chardevs
 charlesjohnson
