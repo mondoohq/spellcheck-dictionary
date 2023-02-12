@@ -716,6 +716,7 @@ rolebindings
 roledefinition
 rolemanagement
 rootcertificates
+routable
 routetable
 rpc
 rpcbind
