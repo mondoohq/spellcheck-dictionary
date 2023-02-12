@@ -75,6 +75,7 @@ benr
 berglas
 bezier
 BITBUCKET
+Bitcoin
 bitlocker
 blackburn
 blindsided
@@ -260,6 +261,7 @@ entrypoint
 Entrypoint
 envvars
 eol
+EPERM
 equinix
 ericw
 errored
@@ -376,6 +378,7 @@ Icann
 ICANN
 ICMPv
 iframe
+IIS
 imagedefinitions
 imageid
 imap
@@ -444,6 +447,7 @@ kubelets
 kubernetes
 Kubernetes
 Kyleen
+LANs
 lastchanged
 ldquo
 libata
@@ -468,6 +472,7 @@ loglevel
 Logon
 logprofile
 LSA
+LSARPC
 LTS
 lunalectric
 macbook
@@ -500,9 +505,12 @@ Mirko
 mirkonovakovic
 mirrorlist
 misconfigurations
+MITM
+mkconfig
 mkdir
 mnt
 modulefile
+mokutil
 mondoo
 Mondoo
 mondooacr
@@ -544,9 +552,11 @@ mypassword
 mypolicy
 mysql
 mywebserver
+NACLs
 nbsp
 ndb
 netctl
+NETLOGON
 networkacl
 networkd
 networkpolicy
@@ -678,7 +688,10 @@ resourcechange
 resourcemanager
 respawn
 restapi
+rhosts
 RKE
+rlogin
+rmmod
 roadmap
 rockylinux
 roleassignment
@@ -706,6 +719,7 @@ salesforce
 sbin
 SBOM
 scliscan
+SCOM
 scorecards
 scottford
 screensaver
@@ -735,6 +749,7 @@ sharepointonline
 shirou
 Sicherheit
 sid
+SIDs
 signup
 sigs
 sku
@@ -767,6 +782,7 @@ sse
 ssh
 sshfs
 sshkey
+SSPI
 SSPM
 stackdriver
 Stackdriver
@@ -824,6 +840,7 @@ transitioning
 tsmith
 ttl
 TTLs
+tunables
 typescriptlang
 uac
 ubios
@@ -837,6 +854,7 @@ uid
 uids
 Unassigns
 uncompress
+Unicode
 uninstallable
 uninstalling
 upcase
@@ -925,6 +943,7 @@ yourtoken
 youruser
 youtube
 zendesk
+zeroconf
 zerotouch
 zypp
 zypper
