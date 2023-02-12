@@ -500,6 +500,7 @@ MBP
 mdash
 mdm
 MDM
+mergeability
 mergerequest
 metastore
 metricdimension
@@ -611,6 +612,7 @@ operatorframework
 operatorhub
 orgs
 oslogin
+OSSF
 Oswalt
 osxfuse
 ovf
