@@ -352,6 +352,7 @@ grayscale
 gserviceaccount
 gshadow
 GSSAPI
+gsutil
 gtm
 GTM
 guestinfo
