@@ -273,6 +273,7 @@ executionrole
 exitcode
 expiresin
 expirydates
+eXtensible
 extfile
 facebook
 FAQs
@@ -354,6 +355,7 @@ hashicorp
 hashivault
 haslett
 HDF
+headshots
 heatmap
 helmify
 HKEY
@@ -430,8 +432,8 @@ kubeadmin
 kubeconfig
 kubectl
 kubelet
-kubelet's
 kubeletconfigpath
+kubelet's
 kubelets
 kubernetes
 Kubernetes
@@ -562,6 +564,7 @@ notebookinstance
 Novakovic
 nowrap
 nsa
+NSPM
 NSX
 NTFS
 ntlm
@@ -734,6 +737,7 @@ snmp
 snmpsetting
 SOA
 socketstats
+sourced
 sourcerepo
 SPACECADET
 spaceid
@@ -780,6 +784,7 @@ systemone
 systemsetup
 sysvinit
 tada
+tanzu
 taussig
 TCD
 Tcl
