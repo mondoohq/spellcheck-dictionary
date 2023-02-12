@@ -127,7 +127,9 @@ circleci
 cisa
 cisecurity
 CISO
+CLA
 clickable
+CLIs
 cloudbees
 cloudbuild
 cloudinit
@@ -295,6 +297,7 @@ filesystems
 finalizers
 FIPS
 firewallrule
+firewalls
 firstminute
 flowlog
 flowlogs
@@ -784,6 +787,7 @@ sshfs
 sshkey
 SSPI
 SSPM
+SSRF
 stackdriver
 Stackdriver
 stackset
@@ -925,7 +929,6 @@ wireformat
 Wmi
 workaround
 workarounds
-CLA
 www
 xccdf
 XCCDF
