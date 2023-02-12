@@ -217,6 +217,7 @@ deviceconfiguration
 devicemanagement
 devsec
 DHBEXAMPLE
+dhcpd
 diagnosticsetting
 digitalocean
 dind
@@ -457,6 +458,7 @@ lastchanged
 ldquo
 LGPE
 libata
+libc
 libcroco
 libcurl
 libexec
@@ -715,6 +717,7 @@ rolemanagement
 rootcertificates
 routetable
 rpc
+rpcbind
 rpcuser
 rrdatas
 rsa
