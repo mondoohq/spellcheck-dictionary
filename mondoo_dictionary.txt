@@ -751,6 +751,7 @@ Sectigo
 securityconfig
 securityrule
 securityscore
+Sendmail
 seo
 Seo
 SEO
@@ -964,6 +965,7 @@ yourorg
 yourtoken
 youruser
 youtube
+ypserv
 zendesk
 zeroconf
 zerotouch
