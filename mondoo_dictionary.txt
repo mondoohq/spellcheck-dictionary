@@ -260,6 +260,7 @@ eol
 equinix
 ericw
 errored
+ESPM
 esx
 esxi
 ESXi
@@ -687,6 +688,7 @@ rsquo
 rsyncd
 rsyslog
 Rsyslog
+Rudi-Dutschke-Str
 ruleset
 rulesets
 runningconfig
@@ -901,6 +903,7 @@ xdev
 xen
 xfs
 XMODIFIERS
+xSPM
 xyrt
 yalow
 yaml
