@@ -136,6 +136,7 @@ clusterrolebindings
 clusterroles
 cmdlets
 cmds
+CNAPP
 cnqueries
 cnquery
 cnspec
@@ -428,6 +429,7 @@ killalea
 kmacgugan
 kmod
 krb
+KSPM
 kube
 kubeadmin
 kubeconfig
@@ -747,6 +749,7 @@ spacemrn
 spacex
 spam
 spf
+SPM
 spyware
 Spyware
 SREs
