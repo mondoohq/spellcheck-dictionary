@@ -154,6 +154,7 @@ computerinfo
 config
 configmap
 configmaps
+configurability
 containerd
 controlplane
 controltower
@@ -245,6 +246,7 @@ dotnet
 downcase
 dql
 drs
+dsenableroot
 DTDs
 DVD
 dvs
@@ -289,6 +291,7 @@ facebook
 FAQs
 favicon
 favicons
+fdesetup
 fedoraproject
 fieldname
 fieldset
@@ -306,6 +309,7 @@ flowlogs
 Forsgren
 fpath
 FQDNs
+FSBP
 fstype
 ftp
 fwupd
@@ -329,6 +333,7 @@ gitlab
 gke
 GKE
 globaltable
+Gmail
 gnupg
 gocd
 goeapi
@@ -505,6 +510,7 @@ MBP
 mdash
 mdm
 MDM
+mediasharingd
 mergeability
 mergerequest
 metastore
@@ -657,6 +663,7 @@ Postgre
 postgresql
 powershellgallery
 powershellsdk
+preemptible
 Preinstalled
 prereqs
 Prevalidating
@@ -805,6 +812,7 @@ sshfs
 sshkey
 SSPI
 SSPM
+SSPs
 SSRF
 stackdriver
 Stackdriver
@@ -843,6 +851,7 @@ tcp
 tcpdump
 teamcity
 telnet
+terabytes
 terminfo
 terraform
 Terraform
@@ -971,6 +980,3 @@ zeroconf
 zerotouch
 zypp
 zypper
-Gmail
-mediasharingd
-
