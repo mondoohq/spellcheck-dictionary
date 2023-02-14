@@ -142,6 +142,7 @@ clusterroles
 cmdlets
 cmds
 CNAPP
+Cnext
 cnqueries
 cnquery
 cnspec
@@ -645,6 +646,7 @@ PKCS
 pkix
 PKIX
 platformid
+plcnext
 PLCnext
 Pluggable
 plugins
@@ -784,6 +786,7 @@ Skype
 sleepsonthefloor
 SLES
 Slideshows
+slpd
 smbd
 SMBv
 SNAPSHOTID
@@ -950,6 +953,7 @@ vsphere
 vswitch
 Wahlforss
 warndays
+WBM
 websites
 westus
 wikipedia
