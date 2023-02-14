@@ -32,6 +32,7 @@ archlinux
 aristaeos
 aristanetworks
 arlimus
+arpversion
 arttor
 ASLR
 aspf
