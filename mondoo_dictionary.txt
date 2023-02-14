@@ -649,6 +649,7 @@ PKIX
 platformid
 plcnext
 PLCnext
+PLCs
 Pluggable
 plugins
 Plugins
