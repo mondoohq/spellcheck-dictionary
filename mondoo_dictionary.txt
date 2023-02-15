@@ -668,6 +668,7 @@ Postgre
 postgresql
 powershellgallery
 powershellsdk
+preemptibility
 preemptible
 Preinstalled
 prereqs
