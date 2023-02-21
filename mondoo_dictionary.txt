@@ -879,6 +879,7 @@ tsmith
 ttl
 TTLs
 tunables
+typeof
 typescriptlang
 uac
 ubios
