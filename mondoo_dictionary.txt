@@ -109,6 +109,7 @@ Cbatch
 cci
 CCPA
 CDs
+cdrom
 certinfo
 certs
 CHACHA
@@ -872,6 +873,7 @@ timesyncd
 timezone
 tinyproxy
 Tinyproxy
+tmpfs
 toc
 toolbar
 transitioning
