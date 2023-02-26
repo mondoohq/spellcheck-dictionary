@@ -852,6 +852,7 @@ systemsetup
 sysvinit
 tada
 tanzu
+taskbar
 taussig
 TCD
 Tcl
