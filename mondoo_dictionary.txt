@@ -253,6 +253,7 @@ dsenableroot
 DTDs
 DVD
 dvs
+dword
 EACCES
 eapi
 eastus
@@ -416,6 +417,7 @@ instana
 INSTANCEID
 interfacea
 internetgateway
+ioav
 ipinterface
 ippermission
 iptable
@@ -440,6 +442,7 @@ keyid
 keyname
 keypair
 keypairs
+keypath
 keyring
 keyrings
 keyutils
