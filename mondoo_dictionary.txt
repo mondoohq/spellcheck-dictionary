@@ -5,6 +5,7 @@ Admins
 admissionregistration
 admissionrequest
 admissionreview
+ADML
 agentid
 agentless
 Agentless
@@ -108,8 +109,8 @@ calligo
 Cbatch
 cci
 CCPA
-CDs
 cdrom
+CDs
 certinfo
 certs
 CHACHA
@@ -623,6 +624,7 @@ nvd
 nyc
 ocsp
 OCSP
+OIDC
 openpgp
 openshift
 operatorframework
@@ -638,6 +640,7 @@ owa
 packethost
 packngo
 passphrase
+passphrases
 payne
 peerings
 pegueros
@@ -733,6 +736,7 @@ rolebindings
 roledefinition
 rolemanagement
 rootcertificates
+rootkits
 routable
 routetable
 rpc
