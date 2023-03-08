@@ -709,6 +709,7 @@ rebootpending
 recordset
 redhat
 redis
+regedit
 registrationtoken
 REGISTRATIONTOKEN
 registrykey
@@ -845,6 +846,7 @@ stig
 stp
 subcategoryguid
 subdomain
+subkey
 subscriptionid
 supplychain
 suse
