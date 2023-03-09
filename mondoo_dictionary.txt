@@ -804,6 +804,7 @@ smbd
 SMBv
 SNAPSHOTID
 snapshots
+sNAT
 sni
 snmp
 snmpsetting
