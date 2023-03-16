@@ -224,6 +224,7 @@ devsec
 DHBEXAMPLE
 dhcpd
 diagnosticsetting
+Diffie
 digitalocean
 dind
 DISTRO
@@ -383,6 +384,7 @@ heatmap
 helmify
 HKEY
 hklm
+HMAC
 hostipc
 hostkey
 hostmaster
@@ -617,6 +619,7 @@ NSX
 NTFS
 ntlm
 NTLM
+NTLMv
 ntp
 ntpconfig
 ntpsetting
@@ -680,6 +683,7 @@ powershellsdk
 preemptibility
 preemptible
 Preinstalled
+Prelinking
 prereqs
 Prevalidating
 printf
@@ -693,6 +697,7 @@ protobuf
 protocolbuffers
 protos
 provisioners
+PSOs
 psp
 pubkey
 pwpolicy
@@ -820,6 +825,7 @@ spacex
 spam
 spf
 SPM
+SPOOLSS
 spyware
 Spyware
 SREs
@@ -894,6 +900,7 @@ tsmith
 ttl
 TTLs
 tunables
+TVs
 typeof
 typescriptlang
 uac
@@ -977,6 +984,7 @@ WBM
 websites
 westus
 wikipedia
+wildcards
 winrm
 wireformat
 Wmi
