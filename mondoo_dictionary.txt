@@ -213,6 +213,7 @@ dearmor
 debian
 Debian
 debuginfo
+DEK
 deliminated
 deprioritized
 developerguide
@@ -265,6 +266,7 @@ ecdsa
 ecr
 ECSPM
 edocker
+EKM
 Elasti
 emoji
 emojis
@@ -361,6 +363,8 @@ gpg
 gpgcheck
 gpgkey
 gpgsignature
+GPMC
+GPME
 grantae
 grayscale
 gserviceaccount
