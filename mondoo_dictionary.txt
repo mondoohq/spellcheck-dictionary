@@ -605,6 +605,7 @@ nftables
 nic
 nicolefv
 nics
+noauth
 nodev
 noexec
 nofollow
@@ -766,6 +767,8 @@ ruleset
 rulesets
 runningconfig
 Runtimes
+rwcommunity
+rwuser
 salesforce
 sbin
 SBOM
