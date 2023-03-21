@@ -432,6 +432,7 @@ ippermission
 iptable
 isp
 issuecomment
+ivanmilchev
 jaym
 jenkins
 Jenkinsfile
@@ -691,6 +692,7 @@ powershellsdk
 preemptibility
 preemptible
 Preinstalled
+prelav
 prelink
 Prelinking
 prereqs
