@@ -681,6 +681,7 @@ policytarget
 policyversion
 Portgroup
 portgroups
+Portmap
 portrange
 POSIX
 Postgre
@@ -825,6 +826,7 @@ sNAT
 sni
 snmp
 snmpsetting
+SNMPv
 SOA
 socketstats
 sourced
@@ -841,6 +843,7 @@ spyware
 Spyware
 SREs
 ssd
+SSDP
 ssds
 sse
 ssh
