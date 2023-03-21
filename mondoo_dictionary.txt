@@ -216,6 +216,7 @@ debuginfo
 DEK
 deliminated
 deprioritized
+deregistering
 developerguide
 devguide
 devicecompliancepolicy
@@ -588,6 +589,7 @@ mypolicy
 mysql
 mywebserver
 NACLs
+nats
 nbsp
 ndb
 netctl
@@ -688,6 +690,7 @@ powershellsdk
 preemptibility
 preemptible
 Preinstalled
+prelink
 Prelinking
 prereqs
 Prevalidating
@@ -766,6 +769,7 @@ Rudi-Dutschke-Str
 ruleset
 rulesets
 runningconfig
+runtimes
 Runtimes
 rwcommunity
 rwuser
@@ -869,6 +873,7 @@ suse
 sva
 sysadminstories
 sysconfig
+sysctls
 syslogd
 systcl
 systemaccess
@@ -920,11 +925,13 @@ udp
 UEFI
 uid
 uids
+unarchived
 Unassigns
 uncompress
 Unicode
 uninstallable
 uninstalling
+uninstalls
 upcase
 url
 usecase
