@@ -817,6 +817,7 @@ SIDs
 signup
 sigs
 sku
+SKUs
 Skype
 sleepsonthefloor
 SLES
