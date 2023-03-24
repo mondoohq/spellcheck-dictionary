@@ -134,6 +134,7 @@ cisa
 cisecurity
 CISO
 CLA
+CLDAP
 clickable
 CLIs
 cloudbees
@@ -149,6 +150,7 @@ cmds
 CMKs
 CNAPP
 Cnext
+CNG
 cnqueries
 cnquery
 cnspec
@@ -303,6 +305,10 @@ facebook
 FAQs
 favicon
 favicons
+fchmod
+fchmodat
+fchown
+fchownat
 fdesetup
 fedoraproject
 fieldname
@@ -371,6 +377,7 @@ GPMC
 GPME
 grantae
 grayscale
+grubenv
 gserviceaccount
 gshadow
 GSSAPI
@@ -846,8 +853,10 @@ spaceid
 spacemrn
 spacex
 spam
+spctl
 spf
 SPM
+Spnego
 SPOOLSS
 spyware
 Spyware
