@@ -1,3 +1,4 @@
+AATP
 accessanalyzer
 adkim
 admins
@@ -6,12 +7,18 @@ admissionregistration
 admissionrequest
 admissionreview
 ADML
+ADML
+ADMX
+AEAD
 AEAD
 agentid
 agentless
 Agentless
 agentmrn
+AGPA
+AIDA
 aidecheck
+AIPA
 AKS
 almalinux
 alpinelinux
@@ -31,9 +38,11 @@ appsiteauthsettings
 appsiteconfig
 architected
 archlinux
+ARD
 aristaeos
 aristanetworks
 arlimus
+AROA
 arpversion
 arttor
 ASLR
@@ -140,6 +149,7 @@ CLIs
 cloudbees
 cloudbuild
 cloudinit
+cloudposse
 cloudshell
 clusterrole
 clusterrolebinding
@@ -487,6 +497,7 @@ Kyleen
 Lanman
 LANs
 lastchanged
+lchown
 ldquo
 LGPE
 libata
@@ -544,6 +555,7 @@ metricdimension
 metricsalarm
 metricsfilter
 metricstatistics
+MFAV
 mgmt
 micheelengronne
 mindays
@@ -790,6 +802,7 @@ Runtimes
 rwcommunity
 rwuser
 salesforce
+SAMR
 sbin
 SBOM
 scliscan
@@ -818,7 +831,16 @@ serviceaccounts
 serviceentry
 servicemanagement
 serviceprincipal
+setdomainname
 Setgid
+setglobalpolicy
+sethostname
+setloggingmode
+setremoteappleevents
+setremotelogin
+setstealthmode
+settime
+settimeofday
 sgid
 sharepoint
 sharepointonline
@@ -926,6 +948,7 @@ timesyncd
 timezone
 tinyproxy
 Tinyproxy
+TLSv
 tmpfs
 toc
 toolbar
