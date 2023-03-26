@@ -57,6 +57,7 @@ augenrules
 authn
 authorizedkeys
 AUTHPRIV
+Authy
 authz
 autoclaim
 autofs
