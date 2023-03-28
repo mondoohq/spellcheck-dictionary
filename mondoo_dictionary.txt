@@ -983,6 +983,7 @@ usecase
 Usecase
 usercredentialreportentry
 userguide
+usergroups
 userinfo
 usermod
 username
