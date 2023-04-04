@@ -1047,6 +1047,7 @@ WDigest
 websites
 westus
 wikipedia
+jessie
 wildcards
 winrm
 wireformat
