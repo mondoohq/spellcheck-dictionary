@@ -44,6 +44,7 @@ AROA
 arpversion
 arttor
 ASLR
+asns
 aspf
 aspmx
 asseterror
@@ -90,6 +91,7 @@ Bitcoin
 bitlocker
 blackburn
 blindsided
+BLOCKLIST
 blogs
 Bluetooth
 boomstats
