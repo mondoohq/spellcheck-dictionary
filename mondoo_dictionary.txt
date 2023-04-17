@@ -772,6 +772,7 @@ resourcechange
 resourcemanager
 respawn
 restapi
+RHCOS
 rhosts
 RKE
 rlogin
