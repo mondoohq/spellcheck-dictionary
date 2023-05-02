@@ -239,6 +239,7 @@ devicecompliancepolicy
 deviceconfiguration
 devicemanagement
 devsec
+dfsg
 DHBEXAMPLE
 dhcpd
 diagnosticsetting
@@ -511,6 +512,7 @@ libcurl
 libexec
 libkmod
 libncurses
+libpam
 libstoragemgmt
 libsystemd
 libudev
@@ -646,6 +648,7 @@ nologin
 noopener
 nopassword
 noquota
+nosuid
 notebookinstance
 Novakovic
 nowrap
