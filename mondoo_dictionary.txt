@@ -485,6 +485,7 @@ keyvault
 kilby
 killalea
 kmacgugan
+kmf
 kmod
 krb
 KSPM
