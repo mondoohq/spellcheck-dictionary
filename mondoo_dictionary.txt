@@ -668,6 +668,7 @@ nulllist
 NUOI
 nvd
 nyc
+OCI
 ocsp
 OCSP
 OIDC
@@ -1009,6 +1010,7 @@ validatingwebhookconfigurations
 vaultrecoverypoint
 vcd
 vcenter
+VCN
 vcpu
 vcsim
 vdc
