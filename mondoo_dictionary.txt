@@ -1,3 +1,4 @@
+
 AATP
 accessanalyzer
 Acked
@@ -118,6 +119,7 @@ buildspec
 Bundesamt
 CAcreateserial
 calligo
+Calligo
 Cbatch
 cci
 CCPA
@@ -273,6 +275,7 @@ dql
 drs
 dsenableroot
 DTDs
+Dutschke
 DVD
 dvs
 dword
@@ -287,6 +290,7 @@ ECSPM
 edocker
 EKM
 Elasti
+EMnify
 emoji
 emojis
 emr
@@ -450,6 +454,7 @@ initcontainer
 insmod
 instagram
 instana
+Instana
 INSTANCEID
 interfacea
 internetgateway
@@ -558,6 +563,7 @@ mdash
 mdm
 MDM
 mediasharingd
+Meggle
 mergeability
 mergerequest
 metastore
@@ -635,6 +641,7 @@ networkd
 networkpolicy
 newbot
 newtron
+Newtron
 nextjs
 nfs
 nfsd
@@ -930,6 +937,7 @@ subscriptionid
 supplychain
 suse
 sva
+SVA
 sysadminstories
 sysconfig
 sysctls
