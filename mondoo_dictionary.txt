@@ -433,6 +433,7 @@ HVM
 Icann
 ICANN
 ICMPv
+iface
 iframe
 IIS
 imagedefinitions
@@ -444,6 +445,7 @@ img
 Img
 inactivedays
 inclusionsetting
+inet
 inetd
 Informationstechnik
 ingressbackend
