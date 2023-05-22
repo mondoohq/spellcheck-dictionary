@@ -1,6 +1,6 @@
 
-abcd
 AATP
+abcd
 accessanalyzer
 Acked
 adkim
@@ -688,8 +688,10 @@ OCSP
 OIDC
 openpgp
 openshift
+openwrt
 operatorframework
 operatorhub
+opkg
 orgs
 oslogin
 OSSF
@@ -1092,6 +1094,7 @@ xSPM
 xyrt
 yalow
 yaml
+yocto
 yourdomain
 yourname
 yourorg
