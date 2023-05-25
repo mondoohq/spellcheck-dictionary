@@ -636,6 +636,7 @@ mypolicy
 mysql
 mywebserver
 NACLs
+nameserver
 nats
 nbsp
 ndb
@@ -793,6 +794,7 @@ remediations
 replicaset
 replicasets
 repodata
+resolv
 resourcechange
 resourcemanager
 respawn
