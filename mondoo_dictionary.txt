@@ -689,6 +689,7 @@ OCI
 ocsp
 OCSP
 OIDC
+opcua
 openpgp
 openshift
 openwrt
