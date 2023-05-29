@@ -480,6 +480,7 @@ journalctl
 journaled
 jsmith
 jsonpath
+JWT
 KDE
 kernelmodule
 kexs
