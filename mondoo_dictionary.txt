@@ -94,7 +94,9 @@ Bitcoin
 bitlocker
 blackburn
 blindsided
+blocklist
 BLOCKLIST
+blocklisting
 blogs
 Bluetooth
 boomstats
@@ -136,6 +138,7 @@ charlesjohnson
 chatid
 chatops
 checkbox
+checkboxes
 Choi
 chris
 chrony
