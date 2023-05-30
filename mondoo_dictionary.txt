@@ -691,6 +691,7 @@ OCI
 ocsp
 OCSP
 OIDC
+opc
 opcua
 openpgp
 openshift
