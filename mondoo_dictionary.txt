@@ -305,6 +305,7 @@ envvars
 eol
 EPERM
 equinix
+Erchef
 ericw
 errored
 ESPM
