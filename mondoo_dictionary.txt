@@ -1,4 +1,3 @@
-
 AATP
 abcd
 accessanalyzer
@@ -532,6 +531,7 @@ libcurl
 libexec
 libkmod
 libncurses
+libnginx
 libpam
 libstoragemgmt
 libsystemd
@@ -792,6 +792,7 @@ recordset
 redhat
 redis
 regedit
+regexes
 registrationtoken
 REGISTRATIONTOKEN
 registrykey
