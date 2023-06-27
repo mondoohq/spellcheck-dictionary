@@ -1,5 +1,4 @@
 AATP
-ufw
 abcd
 accessanalyzer
 Acked
@@ -694,6 +693,7 @@ nvd
 nyc
 oci
 OCI
+OCID
 ocsp
 OCSP
 OIDC
@@ -1012,6 +1012,7 @@ udev
 UDF
 udp
 UEFI
+ufw
 uid
 uids
 unarchived
