@@ -686,6 +686,7 @@ NTLM
 NTLMv
 ntp
 ntpconfig
+ntpq
 ntpsetting
 nulllist
 NUOI
@@ -997,6 +998,7 @@ tmpfs
 toc
 toolbar
 transitioning
+trustd
 tsmith
 ttl
 TTLs
@@ -1068,6 +1070,7 @@ vlan
 vmk
 vmkernel
 vmknic
+vmknics
 vmnic
 vmnics
 vms
@@ -1087,6 +1090,7 @@ VSM
 vsphere
 vswitch
 Wahlforss
+warmd
 warndays
 WBM
 WDigest
