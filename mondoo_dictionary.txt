@@ -218,6 +218,7 @@ DACH
 daemonset
 daemonsets
 Daemonsets
+danielwillshare
 databaseusage
 datacenter
 Datacenter
