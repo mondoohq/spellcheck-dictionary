@@ -600,6 +600,7 @@ mkconfig
 mkdir
 mnt
 modulefile
+moeterich
 mokutil
 mondoo
 Mondoo
