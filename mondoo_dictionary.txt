@@ -120,6 +120,7 @@ Buildingasoftwareproject
 buildroot
 buildspec
 Bundesamt
+BUSL
 CAcreateserial
 calligo
 Calligo
