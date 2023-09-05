@@ -539,6 +539,7 @@ libpam
 libstoragemgmt
 libsystemd
 libudev
+lighttpd
 linkedin
 linting
 lithammer
