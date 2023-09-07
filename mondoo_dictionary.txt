@@ -380,6 +380,7 @@ github
 gitlab
 gke
 GKE
+glanceable
 globaltable
 Gmail
 gnupg
