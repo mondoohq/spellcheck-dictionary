@@ -255,6 +255,7 @@ diagnosticsetting
 Diffie
 digitalocean
 dind
+DISA
 DISTRO
 Distroless
 distros
