@@ -1001,6 +1001,7 @@ timesyncd
 timezone
 tinyproxy
 Tinyproxy
+TISAX
 TLSv
 tmpfs
 toc
@@ -1059,6 +1060,7 @@ VCN
 vcns
 vcpu
 vcsim
+VDA
 vdc
 VDCs
 VDS
