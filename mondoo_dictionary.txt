@@ -371,6 +371,7 @@ gcos
 gcp
 GCP
 gcr
+GDM
 genkiroid
 genrsa
 getgroupid
@@ -577,6 +578,7 @@ mariannatessel
 mariuskimmina
 maxauthtries
 maxdays
+mbainter
 MBP
 mdash
 mdm
