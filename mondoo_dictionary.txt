@@ -707,6 +707,7 @@ ntpq
 ntpsetting
 nulllist
 NUOI
+nupkg
 nvd
 nyc
 oci
@@ -1122,6 +1123,7 @@ wikipedia
 wildcards
 winrm
 wireformat
+Wix
 Wmi
 workaround
 workarounds
