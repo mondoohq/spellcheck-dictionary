@@ -157,6 +157,7 @@ cisecurity
 CISO
 CLA
 CLDAP
+cleartext
 clickable
 CLIs
 cloudbees
