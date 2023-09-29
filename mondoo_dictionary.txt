@@ -487,6 +487,7 @@ iptable
 isp
 issuecomment
 ivanmilchev
+Jamf
 jaym
 jenkins
 Jenkinsfile
