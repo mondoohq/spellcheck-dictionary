@@ -28,6 +28,7 @@ amazonlinux
 amd
 amzn
 andrewclayshafer
+ansiballz
 ansible
 apipermissions
 apiresource
@@ -372,6 +373,7 @@ gcp
 GCP
 gcr
 GDM
+geerlingguy
 genkiroid
 genrsa
 getgroupid
@@ -487,6 +489,7 @@ Jenkinsfile
 jerearista
 jessie
 jetbrains
+jmespath
 journalctl
 journaled
 jsmith
