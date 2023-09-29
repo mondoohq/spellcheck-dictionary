@@ -267,6 +267,7 @@ distros
 dkimrecord
 dkr
 dmarc
+dmg
 dmi
 dmsetup
 dmz
@@ -287,6 +288,7 @@ dql
 drs
 dsenableroot
 DTDs
+dumplog
 Dutschke
 DVD
 dvs
