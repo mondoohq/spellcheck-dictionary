@@ -59,6 +59,7 @@ auditctl
 auditd
 Auditd
 augenrules
+aur
 authn
 authorizedkeys
 AUTHPRIV
