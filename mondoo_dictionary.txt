@@ -1046,6 +1046,7 @@ Unassigns
 uncompress
 Unicode
 uninstallable
+uninstaller
 uninstalling
 uninstalls
 upcase
