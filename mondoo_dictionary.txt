@@ -142,6 +142,7 @@ chatid
 chatops
 checkbox
 checkboxes
+Chocolately
 Choi
 chris
 chrony
