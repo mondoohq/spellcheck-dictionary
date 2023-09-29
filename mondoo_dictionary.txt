@@ -498,6 +498,7 @@ journaled
 jsmith
 jsonpath
 JWT
+Kandji
 KDE
 kernelmodule
 kexs
