@@ -256,6 +256,7 @@ DHBEXAMPLE
 dhcpd
 diagnosticsetting
 Diffie
+Digicert
 digitalocean
 dind
 DISA
@@ -390,6 +391,7 @@ glanceable
 globaltable
 Gmail
 gnupg
+GOARCH
 GOBIN
 gocd
 goeapi
