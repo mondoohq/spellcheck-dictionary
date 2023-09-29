@@ -1138,6 +1138,7 @@ XCCDF
 xdev
 xen
 xfs
+xfvz
 XMODIFIERS
 xSPM
 xyrt
