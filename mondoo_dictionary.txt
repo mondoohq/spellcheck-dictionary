@@ -48,6 +48,7 @@ AROA
 arpversion
 arttor
 ASLR
+asn
 asns
 aspf
 aspmx
