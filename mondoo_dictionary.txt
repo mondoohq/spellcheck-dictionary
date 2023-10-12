@@ -310,6 +310,7 @@ EMnify
 emoji
 emojis
 emr
+Entra
 entrypoint
 Entrypoint
 envvars
