@@ -1060,6 +1060,7 @@ uninstaller
 uninstalling
 uninstalls
 upcase
+UPX
 url
 usecase
 Usecase
