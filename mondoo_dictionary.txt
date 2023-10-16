@@ -700,6 +700,7 @@ nologin
 noopener
 nopassword
 noquota
+nosniff
 nosuid
 notebookinstance
 Novakovic
@@ -875,6 +876,7 @@ Runtimes
 rwcommunity
 rwuser
 salesforce
+SAMEORIGIN
 SAMR
 sbin
 SBOM
