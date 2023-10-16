@@ -878,6 +878,7 @@ salesforce
 SAMR
 sbin
 SBOM
+SCIM
 scliscan
 SCOM
 scorecards
