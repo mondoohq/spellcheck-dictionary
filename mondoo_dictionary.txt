@@ -508,6 +508,7 @@ jsmith
 jsonpath
 JWT
 Kandji
+KBs
 KDE
 kernelmodule
 kexs
