@@ -34,6 +34,7 @@ apipermissions
 apiresource
 apiserver
 appex
+applicationaccess
 applicationautoscaling
 appsite
 appsiteauthsettings
@@ -348,6 +349,7 @@ fchmod
 fchmodat
 fchown
 fchownat
+FDE
 fdesetup
 fedoraproject
 fieldname
@@ -597,6 +599,7 @@ maxauthtries
 maxdays
 mbainter
 MBP
+MCX
 mdash
 mdm
 MDM
@@ -749,6 +752,7 @@ packethost
 packngo
 passphrase
 passphrases
+passwordpolicy
 payne
 PDX
 peerings
@@ -786,6 +790,7 @@ Postgre
 postgresql
 powershellgallery
 powershellsdk
+Prefs
 preemptibility
 preemptible
 Preinstalled
