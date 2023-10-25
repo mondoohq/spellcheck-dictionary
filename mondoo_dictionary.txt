@@ -274,6 +274,7 @@ dmg
 dmi
 dmsetup
 dmz
+dnf
 dnssec
 DNSSEC
 DNT
