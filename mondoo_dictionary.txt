@@ -1,4 +1,3 @@
-xorima
 AATP
 abcd
 accessanalyzer
@@ -792,9 +791,9 @@ Postgre
 postgresql
 powershellgallery
 powershellsdk
-Prefs
 preemptibility
 preemptible
+Prefs
 Preinstalled
 prelav
 prelink
@@ -1087,6 +1086,7 @@ utf
 UTF
 utmp
 uuid
+vadvisor
 validatingwebhookconfiguration
 validatingwebhookconfigurations
 vaultrecoverypoint
@@ -1162,6 +1162,7 @@ xen
 xfs
 xfvz
 XMODIFIERS
+xorima
 xSPM
 xyrt
 yalow
