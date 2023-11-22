@@ -892,6 +892,7 @@ scliscan
 SCOM
 scorecards
 scottford
+scp
 screensaver
 screenshots
 sdk
@@ -1060,6 +1061,7 @@ UEFI
 ufw
 uid
 uids
+uint
 unarchived
 Unassigns
 uncompress
