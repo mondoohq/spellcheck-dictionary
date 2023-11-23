@@ -1154,6 +1154,7 @@ winrm
 wireformat
 Wix
 Wmi
+cpes
 workaround
 workarounds
 www
