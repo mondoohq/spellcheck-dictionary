@@ -2,6 +2,7 @@ AATP
 abcd
 accessanalyzer
 Acked
+acpid
 adkim
 admins
 Admins
@@ -27,6 +28,7 @@ amazondynamodb
 amazonlinux
 amd
 amzn
+anacron
 andrewclayshafer
 ansiballz
 ansible
@@ -196,6 +198,7 @@ controltower
 coredns
 coredump
 corsrule
+cpes
 cramfs
 crd
 CRDs
@@ -402,6 +405,7 @@ Gmail
 gnupg
 GOARCH
 GOBIN
+GObject
 gocd
 goeapi
 goharbor
@@ -816,6 +820,7 @@ psp
 pubkey
 pwpolicy
 pwsh
+pypi
 QEm
 quickstart
 Quidenus
@@ -960,6 +965,7 @@ spacemrn
 spacex
 spam
 spctl
+SPDXID
 spf
 SPM
 Spnego
@@ -1154,7 +1160,6 @@ winrm
 wireformat
 Wix
 Wmi
-cpes
 workaround
 workarounds
 www
