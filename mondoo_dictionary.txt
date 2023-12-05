@@ -429,6 +429,7 @@ GPMC
 GPME
 grantae
 grayscale
+GRC
 grubenv
 gserviceaccount
 gshadow
