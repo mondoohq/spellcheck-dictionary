@@ -955,6 +955,7 @@ scottford
 scp
 screensaver
 screenshots
+sda
 sdk
 SDK
 secdb
