@@ -593,6 +593,7 @@ keypairs
 keypath
 keyring
 keyrings
+Keyspaces
 keyutils
 keyvault
 kilby
@@ -728,6 +729,7 @@ MRNs
 msft
 msgraph
 msiexec
+MSK
 mst
 msteams
 mstinterface
