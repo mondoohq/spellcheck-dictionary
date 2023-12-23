@@ -485,6 +485,7 @@ gpgkey
 gpgsignature
 GPMC
 GPME
+gpupdate
 grantae
 grayscale
 GRC
@@ -726,6 +727,7 @@ MQL
 mrn
 MRN
 MRNs
+mrxsmb
 msft
 msgraph
 msiexec
@@ -736,6 +738,7 @@ mstinterface
 mstp
 MSTP
 MSU
+MSV
 mtu
 Mundrawala
 mvd
@@ -852,6 +855,7 @@ pid
 PKCS
 pkix
 PKIX
+pku
 platformid
 plcnext
 PLCnext
