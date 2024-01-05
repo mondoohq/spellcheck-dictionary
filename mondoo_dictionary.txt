@@ -103,6 +103,7 @@ awscodebuild
 awsec
 AWSEC
 awssecretsmanager
+AZs
 azuread
 azurecr
 azuredocker
