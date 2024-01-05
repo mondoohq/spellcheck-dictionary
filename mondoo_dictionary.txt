@@ -1193,6 +1193,7 @@ uninstallable
 uninstaller
 uninstalling
 uninstalls
+unsnoozes
 upcase
 UPX
 url
