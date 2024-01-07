@@ -663,6 +663,7 @@ MacBook
 machineid
 machinename
 mailchimp
+mailjet
 maken
 makeover
 malware
