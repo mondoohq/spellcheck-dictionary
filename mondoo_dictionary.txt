@@ -978,7 +978,9 @@ rsquo
 rsyncd
 rsyslog
 Rsyslog
+RUA
 Rudi-Dutschke-Str
+RUF
 ruleset
 rulesets
 runningconfig
