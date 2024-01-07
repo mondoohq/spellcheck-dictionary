@@ -978,8 +978,10 @@ rsquo
 rsyncd
 rsyslog
 Rsyslog
+rua
 RUA
 Rudi-Dutschke-Str
+ruf
 RUF
 ruleset
 rulesets
