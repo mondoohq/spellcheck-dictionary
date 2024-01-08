@@ -656,6 +656,7 @@ logprofile
 LSA
 LSARPC
 LTS
+LTSC
 luks
 lunalectric
 macbook
