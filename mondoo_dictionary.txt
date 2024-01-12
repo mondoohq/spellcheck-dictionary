@@ -373,6 +373,7 @@ EPERM
 equinix
 Erchef
 Ereignisse
+Erfolg
 ericw
 Errore
 errored
@@ -410,6 +411,7 @@ fchownat
 FDE
 fdesetup
 fedoraproject
+Fehler
 fieldname
 fieldset
 figcaption
@@ -1195,6 +1197,7 @@ Uitbreiding
 unarchived
 Unassigns
 uncompress
+und
 Unicode
 uninstallable
 uninstaller
