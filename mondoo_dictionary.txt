@@ -30,6 +30,7 @@ AICPA
 AIDA
 aidecheck
 AIPA
+aks
 AKS
 almalinux
 alpinelinux
