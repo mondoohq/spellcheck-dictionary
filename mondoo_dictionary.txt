@@ -200,6 +200,7 @@ CLDAP
 cleartext
 clickable
 CLIs
+cloudapp
 cloudbees
 cloudbuild
 cloudinit
@@ -414,6 +415,7 @@ fchown
 fchownat
 FDE
 fdesetup
+fdisk
 fedoraproject
 Fehler
 fieldname
@@ -710,6 +712,7 @@ misconfigurations
 MITM
 mkconfig
 mkdir
+mkfifo
 mnt
 modifica
 modulefile
@@ -932,6 +935,7 @@ rarr
 raspberrypi
 raspi
 rdata
+RDMA
 rdquo
 rebootpending
 Rechten
