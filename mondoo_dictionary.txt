@@ -663,6 +663,7 @@ logindefs
 loglevel
 Logon
 logprofile
+lpd
 LSA
 LSARPC
 LTS
@@ -1237,6 +1238,7 @@ utente
 utf
 UTF
 utmp
+uucp
 uuid
 vadvisor
 validatingwebhookconfiguration
