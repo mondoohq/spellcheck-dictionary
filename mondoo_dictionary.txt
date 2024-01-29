@@ -347,6 +347,7 @@ dumplog
 Dutschke
 DVD
 dvs
+DVWA
 dword
 EACCES
 eapi
@@ -1228,6 +1229,7 @@ uuid
 vadvisor
 validatingwebhookconfiguration
 validatingwebhookconfigurations
+Vandoorn
 vaultrecoverypoint
 vcd
 vcenter
@@ -1304,6 +1306,7 @@ xccdf
 XCCDF
 xdev
 xen
+xfreerdp
 xfs
 xfvz
 XMODIFIERS
