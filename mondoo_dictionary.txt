@@ -402,6 +402,7 @@ executionrole
 exitcode
 expiresin
 expirydates
+exploitability
 eXtensible
 extfile
 facebook
