@@ -927,6 +927,7 @@ provisioners
 Prozesserstellung
 PSOs
 psp
+PTR
 pubkey
 pwpolicy
 pwsh
