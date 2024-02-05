@@ -65,6 +65,7 @@ aristaeos
 aristanetworks
 arlimus
 AROA
+arpa
 arpversion
 arttor
 ASLR
