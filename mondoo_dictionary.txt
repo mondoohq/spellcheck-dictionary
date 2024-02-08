@@ -1149,7 +1149,6 @@ sysconfig
 sysctls
 sysfs
 syslogd
-systcl
 systeemgebeurtenissen
 Systeemintegriteit
 systemaccess
