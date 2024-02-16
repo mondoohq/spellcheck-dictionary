@@ -543,6 +543,7 @@ ICMPv
 iex
 iface
 iframe
+IGZ
 IIS
 imagedefinitions
 imageid
