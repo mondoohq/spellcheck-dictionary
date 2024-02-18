@@ -672,6 +672,7 @@ Logon
 logprofile
 lpd
 LSA
+lsarpc
 LSARPC
 LTS
 LTSC
@@ -785,6 +786,7 @@ nderungen
 nderungsereignisse
 negativo
 netctl
+netlogon
 NETLOGON
 networkacl
 networkd
