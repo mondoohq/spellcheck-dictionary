@@ -880,6 +880,7 @@ PGP
 phish
 phishing
 pid
+pkcs
 PKCS
 pkix
 PKIX
