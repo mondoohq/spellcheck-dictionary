@@ -193,6 +193,7 @@ chronyd
 cicd
 CIEM
 CIFS
+ciphersuite
 circleci
 cisa
 cisecurity
@@ -1122,6 +1123,7 @@ sse
 ssh
 sshfs
 sshkey
+sshkeys
 SSPI
 SSPM
 SSPs
@@ -1334,6 +1336,7 @@ xfreerdp
 xfs
 xfvz
 XMODIFIERS
+xorg
 xorima
 xSPM
 xyrt
