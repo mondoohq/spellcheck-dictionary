@@ -844,6 +844,7 @@ ocsp
 OCSP
 oggetti
 OIDC
+OOM
 opc
 opcua
 openpgp
@@ -1021,8 +1022,8 @@ rwcommunity
 rwuser
 salesforce
 SAMEORIGIN
-SAMR
 samr
+SAMR
 sandboxed
 sbin
 SBOM
