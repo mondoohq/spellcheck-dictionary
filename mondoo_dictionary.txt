@@ -254,6 +254,7 @@ criteri
 criterio
 crond
 cronie
+crowdstrike
 crt
 cryptsetup
 CSPM
@@ -364,6 +365,7 @@ ecdsa
 ecr
 ECSPM
 edocker
+edr
 EKM
 Elasti
 ELBs
@@ -1047,6 +1049,9 @@ securityrule
 securityscore
 SEHOP
 Sendmail
+sentinelagent
+sentineld
+sentinelone
 seo
 Seo
 SEO
