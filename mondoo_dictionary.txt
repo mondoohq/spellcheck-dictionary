@@ -364,6 +364,7 @@ ecdsa
 ecr
 ECSPM
 edocker
+EDR
 EKM
 Elasti
 ELBs
