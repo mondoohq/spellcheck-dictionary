@@ -345,6 +345,7 @@ domainlist
 domainname
 dotnet
 downcase
+DPIA
 dql
 drs
 dsenableroot
@@ -804,6 +805,7 @@ nftables
 nic
 nicolefv
 nics
+NIDS
 noauth
 nodev
 noexec
@@ -866,6 +868,7 @@ ovf
 OVF
 ovm
 owa
+OWASP
 packethost
 packngo
 passphrase
@@ -1028,6 +1031,7 @@ SAMR
 sandboxed
 sbin
 SBOM
+SCAP
 SCIM
 scliscan
 SCOM
@@ -1079,6 +1083,7 @@ Sicherheitssystemerweiterung
 sicurezza
 sid
 SIDs
+SIEM
 signup
 sigs
 sistema
@@ -1131,6 +1136,7 @@ SSPI
 SSPM
 SSPs
 SSRF
+SSRM
 stackdriver
 Stackdriver
 stackset
