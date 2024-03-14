@@ -393,6 +393,7 @@ Esito
 ESPM
 Estensione
 esx
+esxcli
 esxi
 ESXi
 etag
