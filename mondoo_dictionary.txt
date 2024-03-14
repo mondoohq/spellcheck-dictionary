@@ -534,6 +534,7 @@ headshots
 heatmap
 helmify
 hfs
+HGFS
 HKEY
 hklm
 HMAC
@@ -1299,6 +1300,7 @@ vibs
 virtualbox
 virtualmfadevice
 virtualsize
+VIX
 vjeffrey
 vjtest
 vlan
