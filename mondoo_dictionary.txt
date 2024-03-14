@@ -788,6 +788,7 @@ NACLs
 nameserver
 nats
 nbsp
+ncat
 ndb
 nderung
 nderungen
@@ -827,6 +828,7 @@ notebookinstance
 Novakovic
 nowrap
 nsa
+nset
 NSPM
 NSX
 NTFS
@@ -1051,6 +1053,7 @@ screenshots
 sda
 sdk
 SDK
+seccomp
 secdb
 seclabel
 secpol
