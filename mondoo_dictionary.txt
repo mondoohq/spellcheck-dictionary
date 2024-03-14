@@ -38,6 +38,7 @@ Altri
 amazondynamodb
 amazonlinux
 amd
+AMSI
 amzn
 anacron
 andere
@@ -548,6 +549,7 @@ html
 https
 HVM
 hwclock
+Hypertext
 Icann
 ICANN
 ICMPv
@@ -1364,7 +1366,6 @@ xfs
 xfvz
 XMODIFIERS
 xorg
-AMSI
 xorima
 xSPM
 xyrt
