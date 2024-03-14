@@ -348,6 +348,7 @@ downcase
 DPIA
 dql
 drs
+DSBL
 dsenableroot
 DTDs
 dumplog
@@ -1212,6 +1213,7 @@ toc
 toepassingsgroepen
 tomtrix
 toolbar
+TOTP
 transitioning
 trustd
 TSC
@@ -1325,6 +1327,7 @@ Wahlforss
 warmd
 warndays
 WBM
+WDAC
 WDigest
 webinar
 webinars
