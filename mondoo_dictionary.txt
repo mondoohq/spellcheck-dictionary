@@ -497,6 +497,7 @@ goprocinfo
 gopsutil
 govc
 govmomi
+gpedit
 gpg
 gpgcheck
 gpgkey
@@ -888,6 +889,7 @@ phishing
 pid
 pkcs
 PKCS
+PKI
 pkix
 PKIX
 pku
@@ -941,6 +943,7 @@ provisioners
 Prozesserstellung
 PSOs
 psp
+PSPs
 PTR
 pubkey
 pwpolicy
