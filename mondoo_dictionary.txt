@@ -544,6 +544,7 @@ HSTS
 html
 https
 HVM
+hwclock
 Icann
 ICANN
 ICMPv
@@ -1198,6 +1199,7 @@ tfplan
 tfstate
 tfvars
 tgz
+timedatectl
 timemachine
 timesyncd
 timezone
