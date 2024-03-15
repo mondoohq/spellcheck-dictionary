@@ -1350,6 +1350,7 @@ wijzigen
 Wijziging
 wikipedia
 wildcards
+MSSQL
 winrm
 wireformat
 Wix
