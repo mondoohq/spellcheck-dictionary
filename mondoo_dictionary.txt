@@ -369,6 +369,7 @@ ecr
 ECSPM
 edocker
 EDR
+EIP
 EKM
 Elasti
 ELBs
@@ -377,6 +378,7 @@ emoji
 emojis
 emr
 ena
+ENI
 Entra
 entrypoint
 Entrypoint
