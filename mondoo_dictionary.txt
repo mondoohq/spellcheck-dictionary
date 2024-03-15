@@ -202,6 +202,7 @@ CISO
 CLA
 CLDAP
 cleartext
+CLF
 clickable
 CLIs
 cloudapp
@@ -767,6 +768,7 @@ msft
 msgraph
 msiexec
 MSK
+MSSQL
 mst
 msteams
 mstinterface
@@ -896,6 +898,7 @@ PGP
 phish
 phishing
 pid
+PITR
 pkcs
 PKCS
 PKI
@@ -1350,7 +1353,6 @@ wijzigen
 Wijziging
 wikipedia
 wildcards
-MSSQL
 winrm
 wireformat
 Wix
