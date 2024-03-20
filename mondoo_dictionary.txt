@@ -1360,6 +1360,7 @@ winrm
 wireformat
 Wix
 Wmi
+Wolfi
 workaround
 workarounds
 www
