@@ -213,6 +213,7 @@ cloudbuild
 cloudinit
 cloudposse
 cloudshell
+cloudtrailbucket
 clusterrole
 clusterrolebinding
 clusterrolebindings
