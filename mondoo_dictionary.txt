@@ -221,6 +221,7 @@ clusterroles
 cmdlets
 cmds
 CMKs
+CNAMEs
 CNAPP
 Cnext
 CNG
