@@ -439,6 +439,7 @@ Fehler
 fieldname
 fieldset
 figcaption
+fileglob
 fileposition
 fileraspi
 Filestore
@@ -703,6 +704,7 @@ machineid
 machinename
 mailchimp
 mailjet
+makecache
 maken
 makeover
 malware
@@ -1210,6 +1212,7 @@ TCD
 Tcl
 tcp
 tcpdump
+tdnf
 teamcity
 telnet
 terabytes
