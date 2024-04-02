@@ -1383,6 +1383,7 @@ xfvz
 XMODIFIERS
 xorg
 xorima
+jmesquery
 xSPM
 xyrt
 yalow
