@@ -186,6 +186,7 @@ chardevs
 charlesjohnson
 chatid
 chatops
+chdir
 checkbox
 checkboxes
 Chocolately
