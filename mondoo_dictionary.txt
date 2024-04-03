@@ -611,6 +611,7 @@ jerearista
 jessie
 jetbrains
 jmespath
+jmesquery
 journalctl
 journaled
 jsmith
@@ -1033,6 +1034,7 @@ routetable
 rpc
 rpcbind
 rpcuser
+RPMs
 rrdatas
 rsa
 rsh
@@ -1240,6 +1242,7 @@ tomtrix
 toolbar
 TOTP
 transitioning
+trixie
 trustd
 TSC
 tsmith
@@ -1383,7 +1386,6 @@ xfvz
 XMODIFIERS
 xorg
 xorima
-jmesquery
 xSPM
 xyrt
 yalow
