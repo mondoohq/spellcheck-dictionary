@@ -604,6 +604,7 @@ isp
 issuecomment
 ivanmilchev
 Jamf
+jaybrueder
 jaym
 jenkins
 Jenkinsfile
