@@ -221,6 +221,7 @@ clusterrolebindings
 clusterroles
 cmdlets
 cmds
+CMK
 CMKs
 CNAMEs
 CNAPP
