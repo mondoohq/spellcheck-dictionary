@@ -1408,3 +1408,5 @@ zeroconf
 zerotouch
 zypp
 zypper
+postgres
+VPNs
