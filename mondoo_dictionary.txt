@@ -1347,6 +1347,7 @@ VNet
 VOLUMEID
 voor
 vpnconnection
+VPNs
 vpx
 vsan
 vsftp
@@ -1408,5 +1409,3 @@ zeroconf
 zerotouch
 zypp
 zypper
-postgres
-VPNs
