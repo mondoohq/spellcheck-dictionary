@@ -451,6 +451,7 @@ FIPS
 Firefox
 firewallrule
 firewalls
+Firewatch
 firstminute
 flowlog
 flowlogs
