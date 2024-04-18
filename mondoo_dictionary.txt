@@ -568,6 +568,7 @@ ICMPv
 iex
 iface
 iframe
+igw
 IGZ
 IIS
 imagedefinitions
