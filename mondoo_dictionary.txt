@@ -508,6 +508,7 @@ googlecompute
 googledomains
 googletagmanager
 googleworkspace
+GOPATH
 GOPRIVATE
 goprocinfo
 gopsutil
