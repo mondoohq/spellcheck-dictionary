@@ -372,6 +372,7 @@ eastus
 easyredir
 ebtables
 ecdsa
+ecparam
 ecr
 ECSPM
 edocker
@@ -478,6 +479,7 @@ Gebruik
 Gebruikersaccountbeheer
 Gedetailleerde
 geerlingguy
+genkey
 genkiroid
 genrsa
 Gestione
@@ -630,6 +632,7 @@ kernelmodule
 kexs
 keychain
 keychains
+Keycloak
 keyctl
 keygen
 keyid
@@ -843,6 +846,7 @@ nogroup
 noindex
 nologin
 noopener
+noout
 nopassword
 noquota
 nosniff
