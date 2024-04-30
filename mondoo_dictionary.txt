@@ -840,6 +840,7 @@ nicolefv
 nics
 NIDS
 noauth
+nocrypt
 nodev
 noexec
 nofollow
@@ -1089,6 +1090,7 @@ SDK
 seccomp
 secdb
 seclabel
+secp
 secpol
 Sectigo
 securityconfig
