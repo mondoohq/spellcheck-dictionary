@@ -1229,6 +1229,7 @@ terabytes
 terminfo
 terraform
 Terraform
+terraformrc
 tfmodule
 tfplan
 tfstate
