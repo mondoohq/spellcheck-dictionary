@@ -481,6 +481,7 @@ Gedetailleerde
 geerlingguy
 genkey
 genkiroid
+genpkey
 genrsa
 Gestione
 getgroupid
@@ -924,6 +925,7 @@ pid
 PITR
 pkcs
 PKCS
+pkeyopt
 PKI
 pkix
 PKIX
