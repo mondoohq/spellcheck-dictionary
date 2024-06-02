@@ -1384,6 +1384,7 @@ webinars
 websites
 Wechselmedien
 westus
+whois
 wijzigen
 Wijziging
 wikipedia
