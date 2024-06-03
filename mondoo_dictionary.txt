@@ -1126,6 +1126,7 @@ sgid
 sharepoint
 sharepointonline
 shirou
+Shodan
 Sicherheit
 Sicherheitsgruppenverwaltung
 Sicherheitsstatus
