@@ -840,6 +840,7 @@ nic
 nicolefv
 nics
 NIDS
+Nmap
 noauth
 nocrypt
 nodev
