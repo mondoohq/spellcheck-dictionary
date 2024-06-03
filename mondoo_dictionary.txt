@@ -1059,6 +1059,7 @@ rsquo
 rsyncd
 rsyslog
 Rsyslog
+rtspd
 rua
 RUA
 Rudi-Dutschke-Str
