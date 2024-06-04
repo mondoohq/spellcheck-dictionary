@@ -164,6 +164,7 @@ bugfix
 Buildingasoftwareproject
 buildroot
 buildspec
+buildx
 Bundesamt
 BUSL
 CAcreateserial
