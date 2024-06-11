@@ -1155,6 +1155,7 @@ sni
 snmp
 snmpsetting
 SNMPv
+Snowsight
 SOA
 socketstats
 sourced
