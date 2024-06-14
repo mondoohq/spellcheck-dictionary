@@ -884,6 +884,7 @@ OCI
 OCID
 ocsp
 OCSP
+OEMs
 oggetti
 OIDC
 OOM
@@ -914,6 +915,7 @@ packngo
 passphrase
 passphrases
 passwordpolicy
+Pauti
 payne
 PDFs
 PDX
