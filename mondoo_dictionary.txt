@@ -1129,6 +1129,7 @@ sgid
 sharepoint
 sharepointonline
 shirou
+shodan
 Shodan
 Sicherheit
 Sicherheitsgruppenverwaltung
