@@ -234,6 +234,7 @@ cnspec
 coffeescript
 commandline
 commitauthor
+Committers
 compat
 compinit
 computerinfo
