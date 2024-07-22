@@ -1162,6 +1162,8 @@ SNMPv
 Snowsight
 SOA
 socketstats
+Sophos
+sophos
 sourced
 sourcerepo
 SPACECADET
