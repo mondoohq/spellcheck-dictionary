@@ -179,6 +179,7 @@ CDs
 centralus
 certinfo
 certs
+ceso
 cgroups
 CHACHA
 Chainguard
@@ -844,7 +845,9 @@ nics
 NIDS
 Nmap
 noauth
+nocontrols
 nocrypt
+nodata
 nodev
 noexec
 nofollow
