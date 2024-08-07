@@ -59,6 +59,7 @@ applicationautoscaling
 appsite
 appsiteauthsettings
 appsiteconfig
+appuser
 architected
 Archivi
 archlinux
@@ -851,6 +852,7 @@ nodata
 nodev
 noexec
 nofollow
+nogpgcheck
 nogroup
 noindex
 nologin
@@ -1165,8 +1167,8 @@ SNMPv
 Snowsight
 SOA
 socketstats
-Sophos
 sophos
+Sophos
 sourced
 sourcerepo
 SPACECADET
