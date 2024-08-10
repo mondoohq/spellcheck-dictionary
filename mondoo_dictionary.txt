@@ -148,6 +148,7 @@ Bluetooth
 boomstats
 bootbank
 botfather
+botnet
 BPDU
 bpke
 BPM
@@ -282,6 +283,7 @@ CVEs
 cvss
 CVSS
 CVSSv
+CWD
 CWPP
 cyberattacks
 Cygwin
@@ -933,6 +935,8 @@ PDX
 peerings
 pegueros
 pem
+pentest
+pentesting
 Pentoo
 personalise
 PFS
