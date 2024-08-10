@@ -149,6 +149,7 @@ boomstats
 bootbank
 botfather
 botnet
+botnets
 BPDU
 bpke
 BPM
