@@ -697,6 +697,7 @@ linkedin
 linting
 lithammer
 livello
+livez
 LLMNR
 LLSRPC
 llx
@@ -926,6 +927,7 @@ passphrases
 passwordpolicy
 Pauti
 payne
+PCs
 PDFs
 PDX
 peerings
@@ -1017,6 +1019,7 @@ raspi
 rdata
 RDMA
 rdquo
+readyz
 rebootpending
 Rechten
 recordset
@@ -1273,6 +1276,7 @@ timezone
 tinyproxy
 Tinyproxy
 TISAX
+TLDs
 tlsv
 TLSv
 tmpfs
