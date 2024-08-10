@@ -423,6 +423,7 @@ Eview
 exchangeonline
 exclusionsetting
 executionrole
+exfiltrated
 exitcode
 expiresin
 expirydates
@@ -553,6 +554,7 @@ hashivault
 haslett
 HDF
 headshots
+healthz
 heatmap
 helmify
 hfs
@@ -664,6 +666,7 @@ kubeadm
 kubeadmin
 kubeconfig
 kubectl
+Kubeflow
 kubelet
 kubelet's
 kubeletconfigpath
@@ -928,6 +931,7 @@ PDX
 peerings
 pegueros
 pem
+Pentoo
 personalise
 PFS
 PGP
@@ -995,6 +999,7 @@ PSOs
 psp
 PSPs
 PTR
+ptrace
 pubkey
 pwpolicy
 pwsh
@@ -1318,6 +1323,7 @@ url
 usecase
 Usecase
 usercredentialreportentry
+userfaultfd
 usergroups
 userguide
 userinfo
