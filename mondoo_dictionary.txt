@@ -497,6 +497,7 @@ getremotelogin
 getstarted
 gettingstarted
 gevoelige
+gibibyte
 gitconfig
 github
 gitlab
@@ -1276,6 +1277,7 @@ tfvars
 tgz
 timedatectl
 timemachine
+Timestream
 timesyncd
 timezone
 tinyproxy
