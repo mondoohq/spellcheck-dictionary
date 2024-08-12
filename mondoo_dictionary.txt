@@ -498,6 +498,7 @@ getstarted
 gettingstarted
 gevoelige
 gibibyte
+gibibytes
 gitconfig
 github
 gitlab
