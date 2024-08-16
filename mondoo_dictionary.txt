@@ -1213,6 +1213,7 @@ sshkey
 sshkeys
 SSPI
 SSPM
+SSPR
 SSPs
 SSRF
 SSRM
