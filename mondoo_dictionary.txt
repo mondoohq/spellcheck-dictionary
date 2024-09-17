@@ -459,6 +459,7 @@ filesystems
 finalizers
 FIPS
 Firefox
+firewalld
 firewallrule
 firewalls
 Firewatch
