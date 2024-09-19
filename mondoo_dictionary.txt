@@ -1045,6 +1045,7 @@ regola
 relatime
 Releasebuild
 releasever
+remediates
 remediations
 replicaset
 replicasets
