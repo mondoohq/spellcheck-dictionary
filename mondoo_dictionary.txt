@@ -359,6 +359,7 @@ domaindnsrecord
 domainkey
 domainlist
 domainname
+dominikrichter
 dotnet
 downcase
 DPIA
@@ -627,6 +628,7 @@ ivanmilchev
 Jamf
 jaybrueder
 jaym
+jeffersonstarchip
 jenkins
 Jenkinsfile
 jerearista
@@ -727,6 +729,7 @@ luks
 lunalectric
 macbook
 MacBook
+macgoogly
 machineid
 machinename
 mailchimp
@@ -1379,6 +1382,7 @@ VGT
 vgwtelemetry
 vib
 vibs
+victoriadjeffrey
 virtualbox
 virtualmfadevice
 virtualsize
