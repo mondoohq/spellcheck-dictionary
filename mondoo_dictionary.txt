@@ -519,6 +519,7 @@ GObject
 gocd
 goeapi
 goharbor
+Goland
 golang
 google
 googleapis
