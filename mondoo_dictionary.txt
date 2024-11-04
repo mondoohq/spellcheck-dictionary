@@ -342,6 +342,7 @@ Distroless
 distros
 dkimrecord
 dkr
+DLQ
 dmarc
 dmg
 dmi
