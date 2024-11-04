@@ -835,6 +835,7 @@ mypack
 mypassword
 mypolicy
 mysql
+mysqld
 mywebserver
 NACLs
 nameserver
