@@ -891,6 +891,7 @@ nsa
 nset
 NSPM
 NSX
+NTDS
 NTFS
 ntlm
 NTLM
