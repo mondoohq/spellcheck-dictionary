@@ -477,6 +477,7 @@ fstype
 ftp
 fwupd
 fwupdmgr
+gamify
 garmeeh
 gce
 gcloud
@@ -502,6 +503,7 @@ gettingstarted
 gevoelige
 gibibyte
 gibibytes
+GIFs
 gitconfig
 github
 gitlab
@@ -801,6 +803,7 @@ MPLv
 MPSSVC
 mql
 MQL
+mqlc
 mrn
 MRN
 MRNs
@@ -1005,6 +1008,7 @@ processi
 procfs
 proposedchange
 protobuf
+protobufs
 protocolbuffers
 protos
 provisioners
@@ -1116,6 +1120,7 @@ SCOM
 scorecards
 scottford
 scp
+screencast
 screensaver
 screenshots
 sda
