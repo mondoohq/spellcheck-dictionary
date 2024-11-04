@@ -748,6 +748,7 @@ malware
 managedinstance
 manpages
 mariadb
+mariadbd
 mariannatessel
 mariuskimmina
 mati007thm
