@@ -164,6 +164,7 @@ bsi
 BSU
 btrfs
 bubbletea
+bubbletea
 bugfix
 Buildingasoftwareproject
 buildroot
@@ -516,6 +517,7 @@ globaltable
 Gmail
 gnupg
 GOARCH
+GOBIN
 GOBIN
 GObject
 gocd
@@ -1014,6 +1016,7 @@ Proces
 processi
 procfs
 proposedchange
+protobuf
 protobuf
 protobufs
 protocolbuffers
