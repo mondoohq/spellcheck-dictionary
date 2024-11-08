@@ -218,6 +218,7 @@ CLIs
 cloudapp
 cloudbees
 cloudbuild
+cloudflared
 cloudinit
 cloudposse
 cloudshell
