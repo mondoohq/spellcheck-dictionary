@@ -601,6 +601,7 @@ imagedefinitions
 imageid
 imap
 IMAP
+imapd
 IMDS
 imdsv
 img
