@@ -478,6 +478,8 @@ freevxfs
 FSBP
 fstype
 ftp
+ftpd
+FTPS
 fwupd
 fwupdmgr
 gamify
@@ -1017,6 +1019,7 @@ proactively
 Proces
 processi
 procfs
+proftpd
 proposedchange
 protobuf
 protobufs
