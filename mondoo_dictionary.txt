@@ -1047,6 +1047,7 @@ rapportd
 rarr
 raspberrypi
 raspi
+rcp
 rdata
 RDMA
 rdquo
@@ -1284,6 +1285,7 @@ systemone
 systemsetup
 sysvinit
 tada
+talkd
 tanzu
 tarballs
 taskbar
