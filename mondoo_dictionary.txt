@@ -1,5 +1,4 @@
 aan
-aideinit
 Aanmelden
 aanmelding
 aarch
@@ -32,6 +31,7 @@ AGPA
 AICPA
 AIDA
 aidecheck
+aideinit
 AIPA
 aks
 AKS
@@ -735,6 +735,7 @@ LSA
 lsarpc
 LSARPC
 LTS
+LTSB
 LTSC
 luks
 Lumi
