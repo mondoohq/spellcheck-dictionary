@@ -897,6 +897,7 @@ Novakovic
 nowrap
 nsa
 nset
+nsock
 NSPM
 NSX
 NTDS
