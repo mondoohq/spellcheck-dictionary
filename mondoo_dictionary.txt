@@ -1430,6 +1430,7 @@ VMSA
 vmw
 vmware
 VNet
+VNIC
 VOLUMEID
 voor
 vpnconnection
