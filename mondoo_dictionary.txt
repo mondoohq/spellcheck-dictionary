@@ -290,6 +290,7 @@ CVSSv
 CWD
 CWPP
 cyberattacks
+Cybercriminals
 Cygwin
 DACH
 daemonset
@@ -792,6 +793,7 @@ Mirko
 mirkonovakovic
 mirrorlist
 misconfigurations
+misrouting
 MITM
 mkconfig
 mkdir
