@@ -747,6 +747,7 @@ LTSC
 luks
 Lumi
 lunalectric
+LVM
 macbook
 MacBook
 macgoogly
@@ -1438,6 +1439,7 @@ VMSA
 vmw
 vmware
 VNet
+VNic
 VNIC
 VOLUMEID
 voor
