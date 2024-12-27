@@ -336,7 +336,7 @@ dhclient
 dhcpd
 diagnosticsetting
 Diffie
-Digicert
+DigiCert
 digitalocean
 dind
 DISA
