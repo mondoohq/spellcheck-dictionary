@@ -231,6 +231,7 @@ cmdlets
 cmds
 CMK
 CMKs
+cnames
 CNAMEs
 CNAPP
 Cnext
@@ -779,6 +780,7 @@ mega
 Meggle
 mergeability
 mergerequest
+Metasploit
 metastore
 metricdimension
 metricsalarm
