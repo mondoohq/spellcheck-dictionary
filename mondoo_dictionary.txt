@@ -58,6 +58,7 @@ Appartenenza
 appex
 applicationaccess
 applicationautoscaling
+applyable
 appsite
 appsiteauthsettings
 appsiteconfig
