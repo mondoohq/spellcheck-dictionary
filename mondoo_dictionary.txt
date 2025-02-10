@@ -772,6 +772,7 @@ maxauthtries
 maxdays
 mbainter
 MBP
+MCAS
 MCX
 mdash
 mdm
@@ -1462,6 +1463,7 @@ warmd
 warndays
 WBM
 WDAC
+WDATP
 WDigest
 webinar
 webinars
