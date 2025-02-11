@@ -658,6 +658,7 @@ JWT
 Kandji
 KBs
 KDE
+kembe
 kernelmodule
 kexs
 keychain
