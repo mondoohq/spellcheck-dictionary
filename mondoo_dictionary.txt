@@ -20,6 +20,7 @@ ADML
 ADMX
 advfirewall
 AEAD
+afiune
 Afmelden
 afmeldingsgebeurtenissen
 agentid
@@ -1305,6 +1306,7 @@ systemone
 systemsetup
 sysvinit
 tada
+tailnet
 talkd
 tanzu
 tarballs
