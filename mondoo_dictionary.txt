@@ -1307,6 +1307,7 @@ systemsetup
 sysvinit
 tada
 tailnet
+Tailscale
 talkd
 tanzu
 tarballs
