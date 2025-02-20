@@ -705,6 +705,7 @@ LANs
 lastchanged
 lchown
 ldquo
+lethadunn
 LGPE
 libata
 libc
@@ -803,6 +804,7 @@ mirkonovakovic
 mirrorlist
 misconfigurations
 misrouting
+misterpantz
 MITM
 mkconfig
 mkdir
