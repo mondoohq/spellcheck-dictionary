@@ -243,6 +243,7 @@ cnqueries
 cnquery
 cnspec
 coffeescript
+collectd
 commandline
 commitauthor
 Committers
