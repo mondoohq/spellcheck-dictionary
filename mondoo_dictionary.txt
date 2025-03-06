@@ -84,6 +84,7 @@ asseterror
 ata
 atomico
 atp
+Auditability
 auditctl
 auditd
 Auditd
