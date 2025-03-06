@@ -990,6 +990,7 @@ PGP
 phish
 phishing
 pid
+PII
 PITR
 pkcs
 PKCS
