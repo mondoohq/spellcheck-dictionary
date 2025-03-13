@@ -413,6 +413,7 @@ entrypoint
 Entrypoint
 envvars
 eol
+EPDR
 EPERM
 EPSS
 equinix
