@@ -23,6 +23,7 @@ AEAD
 afiune
 Afmelden
 afmeldingsgebeurtenissen
+agentd
 agentid
 agentless
 Agentless
@@ -84,6 +85,7 @@ asseterror
 ata
 atomico
 atp
+audispd
 Auditability
 auditctl
 auditd
@@ -106,6 +108,7 @@ autoplay
 autorisatiebeleid
 Autorisierungsrichtlinien
 autorizzazione
+Autoscale
 aws
 awscli
 awscloudtrail
@@ -119,6 +122,7 @@ azurecr
 azuredocker
 azurerm
 azureuser
+backdoored
 backends
 backsplash
 baremetal
@@ -578,6 +582,7 @@ Hashi
 hashicorp
 hashivault
 haslett
+HDD
 HDF
 headshots
 healthz
@@ -829,6 +834,7 @@ mondoonaut
 Mondoonaut
 Mondoonauts
 mondoooperatorconfigs
+moonbase
 mountpoint
 mountpoints
 mozilla
@@ -877,6 +883,7 @@ nderung
 nderungen
 nderungsereignisse
 negativo
+Negoexts
 netctl
 netlogon
 NETLOGON
@@ -973,6 +980,8 @@ owa
 OWASP
 packethost
 packngo
+passcode
+Passfilt
 passphrase
 passphrases
 passwordpolicy
@@ -1240,6 +1249,7 @@ SOA
 socketstats
 sophos
 Sophos
+Souczek
 sourced
 sourcerepo
 SPACECADET
