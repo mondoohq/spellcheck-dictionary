@@ -666,6 +666,7 @@ journalctl
 journaled
 jsmith
 jsonpath
+jwt
 JWT
 Kandji
 KBs
@@ -1497,6 +1498,7 @@ websites
 Wechselmedien
 westus
 whois
+WIF
 wijzigen
 Wijziging
 wikipedia
