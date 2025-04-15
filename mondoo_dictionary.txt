@@ -875,6 +875,7 @@ mypassword
 mypolicy
 mysql
 mysqld
+mysqldump
 mywebserver
 NACLs
 nameserver
