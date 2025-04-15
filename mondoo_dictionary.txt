@@ -160,6 +160,7 @@ bootbank
 botfather
 botnet
 botnets
+boto
 BPDU
 bpke
 BPM
