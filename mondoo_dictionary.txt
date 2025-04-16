@@ -798,6 +798,7 @@ MDM
 mediasharingd
 mega
 Meggle
+Memorystore
 mergeability
 mergerequest
 Metasploit
