@@ -688,6 +688,7 @@ Keycloak
 keyctl
 keygen
 keyid
+keyloggers
 keyname
 keypair
 keypairs
