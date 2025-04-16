@@ -111,6 +111,7 @@ Autorisierungsrichtlinien
 autorizzazione
 autoscale
 Autoscale
+autoscaler
 aws
 awscli
 awscloudtrail
