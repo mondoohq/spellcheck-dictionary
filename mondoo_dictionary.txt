@@ -1310,6 +1310,7 @@ STDOUT
 stedolan
 sth
 stig
+STIGs
 stp
 stuurprogramma
 subcategoryguid
