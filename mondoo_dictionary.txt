@@ -204,6 +204,7 @@ Chainguard
 changeme
 chardevs
 chargeback
+chargeback
 charlesjohnson
 chatid
 chatops
@@ -1248,6 +1249,7 @@ Skype
 sleepsonthefloor
 SLES
 Slideshows
+SLOs
 slpd
 smbd
 SMBv
