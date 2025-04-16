@@ -194,6 +194,7 @@ centralus
 certinfo
 certs
 ceso
+cfnresponse
 cgroups
 CHACHA
 Chainguard
