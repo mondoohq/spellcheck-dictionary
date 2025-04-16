@@ -252,6 +252,7 @@ cnqueries
 cnquery
 cnspec
 coffeescript
+coldline
 collectd
 commandline
 commitauthor
@@ -890,6 +891,7 @@ ndb
 nderung
 nderungen
 nderungsereignisse
+nearline
 negativo
 Negoexts
 netctl
