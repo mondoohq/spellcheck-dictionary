@@ -744,6 +744,7 @@ libstoragemgmt
 libsystemd
 libudev
 libz
+lifecycles
 lighttpd
 linkedin
 linting
