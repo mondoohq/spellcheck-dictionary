@@ -1536,6 +1536,7 @@ xccdf
 XCCDF
 xdev
 xen
+enmod
 xfreerdp
 xfs
 xfvz
