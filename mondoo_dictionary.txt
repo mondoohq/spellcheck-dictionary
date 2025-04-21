@@ -1013,6 +1013,7 @@ pem
 pentest
 pentesting
 Pentoo
+permissioning
 personalise
 PFS
 PGP
