@@ -421,6 +421,7 @@ emojis
 emr
 ena
 ENI
+enmod
 Entra
 entrypoint
 Entrypoint
@@ -471,6 +472,7 @@ fchmod
 fchmodat
 fchown
 fchownat
+FCrDNS
 FDE
 fdesetup
 fdisk
@@ -942,6 +944,7 @@ Novakovic
 nowrap
 nsa
 nset
+nslookup
 nsock
 NSPM
 NSX
@@ -959,6 +962,7 @@ NUOI
 nupkg
 nvd
 nvme
+NXDOMAIN
 nyc
 objecttoegang
 Objektzugriffsereignisse
@@ -1536,7 +1540,6 @@ xccdf
 XCCDF
 xdev
 xen
-enmod
 xfreerdp
 xfs
 xfvz
