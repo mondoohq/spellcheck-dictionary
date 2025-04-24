@@ -1541,6 +1541,7 @@ www
 xccdf
 XCCDF
 xdev
+anonymization
 xen
 xfreerdp
 xfs
