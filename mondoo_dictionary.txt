@@ -486,6 +486,7 @@ fileposition
 fileraspi
 Filestore
 filesystems
+FIM
 finalizers
 FIPS
 Firefox
@@ -1157,6 +1158,7 @@ roledefinition
 rolemanagement
 rootcertificates
 rootfs
+rootkit
 rootkits
 routable
 routetable
