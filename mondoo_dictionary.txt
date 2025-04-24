@@ -51,6 +51,7 @@ andere
 andrewclayshafer
 Anmelden
 Anmeldung
+anonymization
 ansiballz
 ansible
 Anwendungsgruppenverwaltung
@@ -203,7 +204,6 @@ CHACHA
 Chainguard
 changeme
 chardevs
-chargeback
 chargeback
 charlesjohnson
 chatid
@@ -1264,6 +1264,7 @@ SLOs
 slpd
 smbd
 SMBv
+Smurf
 SNAPSHOTID
 snapshots
 sNAT
@@ -1541,7 +1542,6 @@ www
 xccdf
 XCCDF
 xdev
-anonymization
 xen
 xfreerdp
 xfs
