@@ -624,6 +624,7 @@ iex
 iface
 iframe
 igw
+IGWs
 IGZ
 IIS
 iisreset
