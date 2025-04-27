@@ -1136,6 +1136,7 @@ remediations
 replicaset
 replicasets
 repodata
+Reputational
 resolv
 resourcechange
 resourcemanager
