@@ -611,6 +611,7 @@ hostmaster
 hostnames
 hotfixes
 Hpeo
+HPKP
 HSTS
 html
 https
