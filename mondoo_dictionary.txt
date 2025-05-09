@@ -686,6 +686,7 @@ JWT
 Kandji
 KBs
 KDE
+keepalive
 kembe
 kernelmodule
 kexs
