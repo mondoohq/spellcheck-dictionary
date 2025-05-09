@@ -410,6 +410,7 @@ ecr
 ECSPM
 edocker
 EDR
+efixes
 EIP
 EIPs
 EKM
@@ -722,6 +723,7 @@ kubelet
 kubelet's
 kubeletconfigpath
 kubelets
+kubelogin
 kubernetes
 Kubernetes
 Kyleen
