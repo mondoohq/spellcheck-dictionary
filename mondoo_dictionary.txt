@@ -684,6 +684,7 @@ jsonpath
 jwt
 JWT
 Kandji
+Karpenter
 KBs
 KDE
 keepalive
