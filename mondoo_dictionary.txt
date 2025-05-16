@@ -93,6 +93,7 @@ auditctl
 auditd
 Auditd
 augenrules
+auid
 aur
 autenticazione
 authenticatiebeleid
@@ -1348,6 +1349,7 @@ suse
 sva
 SVA
 sysadminstories
+syscalls
 sysconfig
 sysctls
 sysfs
