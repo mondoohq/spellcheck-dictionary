@@ -276,6 +276,7 @@ controlplane
 controltower
 Convalida
 Cooldown
+copyleft
 coredns
 coredump
 corsrule
