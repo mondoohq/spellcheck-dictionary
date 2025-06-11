@@ -568,6 +568,7 @@ goprocinfo
 gopsutil
 govc
 govmomi
+gpasswd
 gpedit
 gpg
 gpgcheck
@@ -1229,6 +1230,7 @@ securityconfig
 securityrule
 securityscore
 SEHOP
+selectattr
 Sendmail
 seo
 Seo
