@@ -1353,6 +1353,7 @@ suse
 sva
 SVA
 sysadminstories
+syscall
 syscalls
 sysconfig
 sysctls
