@@ -786,6 +786,7 @@ LSARPC
 LTS
 LTSB
 LTSC
+LTSS
 luks
 Lumi
 lunalectric
