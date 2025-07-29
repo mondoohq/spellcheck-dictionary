@@ -532,6 +532,7 @@ genkiroid
 genpkey
 genrsa
 Gestione
+getent
 getgroupid
 getremotelogin
 getstarted
