@@ -415,6 +415,7 @@ ECSPM
 edocker
 EDR
 efixes
+Egnyte
 EIP
 EIPs
 EKM
@@ -1545,6 +1546,7 @@ WBM
 WDAC
 WDATP
 WDigest
+weaponized
 webinar
 webinars
 websites
