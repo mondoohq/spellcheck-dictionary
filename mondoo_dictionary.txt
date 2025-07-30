@@ -724,6 +724,7 @@ kmf
 kmod
 Kontosperrung
 krb
+ksh
 KSPM
 kube
 kubeadm
