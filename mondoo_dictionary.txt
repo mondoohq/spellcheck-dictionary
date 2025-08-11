@@ -1423,6 +1423,7 @@ tomtrix
 toolbar
 TOTP
 transitioning
+trendlines
 trixie
 trustd
 TSC
