@@ -509,6 +509,7 @@ fpath
 FQDNs
 freevxfs
 FSBP
+FSM
 fstype
 ftp
 ftpd
