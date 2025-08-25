@@ -767,6 +767,7 @@ libstoragemgmt
 libsystemd
 libudev
 libz
+lifecycle
 lifecycles
 lighttpd
 linkedin
@@ -1503,6 +1504,7 @@ VDS
 veos
 vercel
 versioned
+Versioning
 Verwendung
 Verwisselbare
 vfat
@@ -1535,6 +1537,7 @@ VNic
 VNIC
 VOLUMEID
 voor
+VPC
 vpnconnection
 VPNs
 vpx
@@ -1554,6 +1557,7 @@ WDAC
 WDATP
 WDigest
 weaponized
+webhooks
 webinar
 webinars
 websites
