@@ -1327,6 +1327,7 @@ Spnego
 SPOOLSS
 spyware
 Spyware
+SRE
 SREs
 ssd
 SSDP
@@ -1441,6 +1442,7 @@ typescriptlang
 uac
 ubios
 Ubiquiti
+UBLA
 ubuntu
 udev
 UDF
