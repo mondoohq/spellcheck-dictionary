@@ -813,6 +813,7 @@ makeover
 malware
 managedinstance
 manpages
+marcellus
 mariadb
 mariadbd
 mariannatessel
@@ -915,6 +916,7 @@ mysqldump
 mywebserver
 NACLs
 nameserver
+natd
 nats
 nbsp
 ncat
