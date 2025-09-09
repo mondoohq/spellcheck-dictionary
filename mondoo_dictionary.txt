@@ -226,6 +226,7 @@ cisa
 cisecurity
 CISO
 CLA
+Claude
 CLDAP
 cleartext
 CLF
