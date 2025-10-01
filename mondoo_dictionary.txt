@@ -1414,6 +1414,7 @@ tfplan
 tfstate
 tfvars
 tgz
+thumbprints
 timedatectl
 timemachine
 Timestream
