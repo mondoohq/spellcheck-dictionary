@@ -150,6 +150,7 @@ bezier
 BITBUCKET
 Bitcoin
 bitlocker
+Bitwarden
 blackburn
 blindsided
 Blocco
@@ -506,6 +507,7 @@ firstminute
 flowlog
 flowlogs
 Forsgren
+Forti
 fpath
 FQDNs
 freevxfs
@@ -588,6 +590,7 @@ grayscale
 GRC
 Groepslidmaatschap
 grubenv
+Grundschutz
 Gruppenmitgliedschaft
 gruppi
 gserviceaccount
@@ -681,6 +684,7 @@ ivanmilchev
 Jamf
 jaybrueder
 jaym
+JDK
 jeffersonstarchip
 jenkins
 Jenkinsfile
@@ -727,6 +731,7 @@ kmod
 Kontosperrung
 KPIs
 krb
+KRITIS
 ksh
 KSPM
 kube
@@ -1002,6 +1007,7 @@ OCSP
 OEMs
 oggetti
 OIDC
+Ollama
 OOM
 opc
 opcua
@@ -1053,6 +1059,8 @@ PFS
 PGP
 phish
 phishing
+Photoshop
+Photoshop
 pid
 PII
 PIM
@@ -1522,6 +1530,7 @@ vib
 vibs
 victoriadjeffrey
 virtualbox
+Virtualisierung
 virtualmfadevice
 virtualsize
 VIX
@@ -1566,6 +1575,7 @@ WDAC
 WDATP
 WDigest
 weaponized
+Webex
 webhooks
 webinar
 webinars
