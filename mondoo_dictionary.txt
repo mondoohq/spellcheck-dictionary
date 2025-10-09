@@ -456,6 +456,7 @@ esxi
 ESXi
 etag
 eurolinux
+EUS
 eventaudit
 eventbridge
 Eventbus
