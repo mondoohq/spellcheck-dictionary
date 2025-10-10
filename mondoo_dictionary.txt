@@ -1061,7 +1061,6 @@ PGP
 phish
 phishing
 Photoshop
-Photoshop
 pid
 PII
 PIM
