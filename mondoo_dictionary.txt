@@ -409,6 +409,7 @@ EACCES
 eapi
 eastus
 easyredir
+EBGP
 ebtables
 ecdsa
 ecparam
@@ -627,6 +628,7 @@ hostnames
 hotfixes
 Hpeo
 HPKP
+HSRP
 HSTS
 html
 https
@@ -654,6 +656,7 @@ imdsv
 img
 Img
 inactivedays
+inband
 inbox
 inclusionsetting
 inet
@@ -1022,6 +1025,7 @@ opkg
 opslag
 orgs
 oslogin
+OSPF
 OSSF
 Oswalt
 osxfuse
