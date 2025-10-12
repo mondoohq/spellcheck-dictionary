@@ -842,6 +842,7 @@ mediasharingd
 mega
 Meggle
 Memorystore
+Meraki
 mergeability
 mergerequest
 Metasploit
