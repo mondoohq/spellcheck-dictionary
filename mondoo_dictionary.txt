@@ -708,6 +708,7 @@ Karpenter
 KBs
 KDE
 keepalive
+keepalives
 kembe
 kernelmodule
 kexs
@@ -1214,6 +1215,7 @@ routetable
 rpc
 rpcbind
 rpcuser
+RPF
 RPMs
 rrdatas
 rsa
@@ -1488,7 +1490,6 @@ upcase
 upgradable
 UPX
 url
-uRPF
 usecase
 Usecase
 usercredentialreportentry
