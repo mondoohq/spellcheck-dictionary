@@ -419,6 +419,7 @@ edocker
 EDR
 efixes
 Egnyte
+EIGRP
 EIP
 EIPs
 EKM
@@ -987,6 +988,7 @@ nslookup
 nsock
 NSPM
 NSX
+NTC
 NTDS
 NTFS
 ntlm
@@ -1406,6 +1408,7 @@ Systemintegrit
 systemone
 systemsetup
 sysvinit
+TACACS
 tada
 tailnet
 Tailscale
@@ -1567,6 +1570,7 @@ VPC
 vpnconnection
 VPNs
 vpx
+VRF
 vsan
 vsftp
 VSFTP
