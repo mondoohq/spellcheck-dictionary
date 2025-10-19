@@ -364,6 +364,7 @@ digitalocean
 dind
 DISA
 Disconnessione
+diskutil
 DISTRO
 Distroless
 distros
