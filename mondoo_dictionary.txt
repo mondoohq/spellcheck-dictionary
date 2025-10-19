@@ -1637,5 +1637,6 @@ yvovandoorn
 zendesk
 zeroconf
 zerotouch
+zroot
 zypp
 zypper
