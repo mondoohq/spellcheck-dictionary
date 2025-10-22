@@ -1153,6 +1153,7 @@ pwsh
 pypi
 QEm
 QPS
+Qualys
 quickstart
 Quidenus
 Radeon
@@ -1429,6 +1430,7 @@ tcpdump
 tdnf
 teamcity
 telnet
+Tenable
 terabytes
 terminfo
 terraform
