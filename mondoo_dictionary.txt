@@ -9,6 +9,7 @@ accessanalyzer
 accesso
 Accountvergrendeling
 Acked
+linecard
 acpid
 adkim
 admins
