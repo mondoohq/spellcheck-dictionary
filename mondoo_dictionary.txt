@@ -1403,6 +1403,7 @@ supplychain
 suse
 sva
 SVA
+switchport
 sysadminstories
 syscall
 syscalls
