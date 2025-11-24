@@ -541,6 +541,7 @@ genkey
 genkiroid
 genpkey
 genrsa
+Geocode
 Gestione
 getent
 getgroupid
