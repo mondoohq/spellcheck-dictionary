@@ -682,6 +682,7 @@ Integrit
 interfacea
 internetgateway
 ioav
+ipinfo
 ipinterface
 ippermission
 ipssl
