@@ -24,6 +24,7 @@ afiune
 Afmelden
 afmeldingsgebeurtenissen
 agentd
+agentic
 agentid
 agentless
 Agentless
@@ -168,6 +169,7 @@ botfather
 botnet
 botnets
 boto
+Bottlerocket
 BPDU
 bpke
 BPM
@@ -614,6 +616,7 @@ Hashi
 hashicorp
 hashivault
 haslett
+HCE
 HDD
 HDF
 headshots
@@ -636,6 +639,7 @@ HSRP
 HSTS
 html
 https
+Hulud
 HVM
 hwclock
 Hypertext
@@ -973,6 +977,7 @@ NLA
 Nmap
 noatime
 noauth
+Nobara
 nocontrols
 nocrypt
 nodata
@@ -1307,6 +1312,7 @@ setstealthmode
 settime
 settimeofday
 sgid
+Shai
 sharepoint
 sharepointonline
 shirou
