@@ -396,6 +396,7 @@ dominikrichter
 dotnet
 downcase
 DPIA
+dpkg
 dql
 Drack
 Dropbox
