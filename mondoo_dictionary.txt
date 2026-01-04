@@ -59,6 +59,7 @@ Anwendungsgruppenverwaltung
 apipermissions
 apiresource
 apiserver
+apk
 Appartenenza
 appex
 applicationaccess
@@ -161,6 +162,7 @@ blocklisted
 blocklisting
 blogs
 Bluetooth
+Bobberson
 bogon
 boomstats
 bootbank
