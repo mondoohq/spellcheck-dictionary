@@ -572,6 +572,7 @@ GOBIN
 GObject
 gocd
 goeapi
+gofmt
 goharbor
 Goland
 golang
