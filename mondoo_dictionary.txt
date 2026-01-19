@@ -192,6 +192,7 @@ buildspec
 buildx
 Bundesamt
 BUSL
+bytecode
 CAcreateserial
 cafile
 calligo
@@ -579,6 +580,7 @@ gofmt
 goharbor
 Goland
 golang
+golangci
 google
 googleapis
 googlecompute
@@ -589,6 +591,7 @@ GOPATH
 GOPRIVATE
 goprocinfo
 gopsutil
+Gotchas
 govc
 govmomi
 gpasswd
@@ -892,6 +895,7 @@ mkdir
 mkfifo
 mktemp
 mnt
+mockgen
 modifica
 modulefile
 moeterich
@@ -1158,6 +1162,7 @@ proposedchange
 protobuf
 protobufs
 protocolbuffers
+protolint
 protos
 provisioners
 proxiable
