@@ -116,6 +116,7 @@ autorizzazione
 autoscale
 Autoscale
 autoscaler
+autoupdate
 aws
 awscli
 awscloudtrail
@@ -806,6 +807,7 @@ lifecycles
 Lightbox
 lighttpd
 linecard
+lineinfile
 linkedin
 linting
 lithammer
