@@ -1269,6 +1269,7 @@ ruf
 RUF
 ruleset
 rulesets
+runc
 runningconfig
 runtimes
 Runtimes
