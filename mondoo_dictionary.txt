@@ -1664,6 +1664,7 @@ xfvz
 XMODIFIERS
 xorg
 xorima
+XPI
 xSPM
 xyrt
 yalow
