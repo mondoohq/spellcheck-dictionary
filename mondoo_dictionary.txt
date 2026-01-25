@@ -1004,6 +1004,7 @@ noindex
 nologin
 noopener
 noout
+NOPASSWD
 nopassword
 noquota
 nosniff
@@ -1269,6 +1270,7 @@ ruf
 RUF
 ruleset
 rulesets
+runas
 runc
 runningconfig
 runtimes
@@ -1318,6 +1320,7 @@ servicemanagement
 serviceprincipal
 sessione
 setdomainname
+SETENV
 Setgid
 setglobalpolicy
 sethostname
