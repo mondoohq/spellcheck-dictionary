@@ -526,6 +526,7 @@ fpath
 FQDNs
 freevxfs
 FSBP
+fsize
 FSM
 fstype
 ftp
