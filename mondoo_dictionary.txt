@@ -706,6 +706,7 @@ ipinterface
 ippermission
 ipssl
 iptable
+IRSA
 ISAC
 isp
 issuecomment
@@ -763,6 +764,7 @@ Kontosperrung
 KPIs
 krb
 KRITIS
+KSA
 ksh
 KSPM
 kube
