@@ -302,6 +302,7 @@ criteri
 criterio
 crond
 cronie
+crontabs
 crt
 cryptsetup
 CSPM
