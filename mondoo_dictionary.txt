@@ -198,6 +198,7 @@ CAcreateserial
 cafile
 calligo
 Calligo
+CAs
 Cbatch
 cci
 CCPA
