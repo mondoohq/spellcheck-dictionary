@@ -528,6 +528,7 @@ Forti
 fpath
 FQDNs
 freevxfs
+frontends
 FSBP
 fsize
 FSM
