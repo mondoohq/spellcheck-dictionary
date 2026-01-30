@@ -715,6 +715,7 @@ isp
 issuecomment
 ITSM
 ivanmilchev
+IVs
 Jamf
 jaybrueder
 jaym
@@ -1537,6 +1538,7 @@ und
 underutilized
 Unicode
 uninstallable
+uninstallation
 uninstaller
 uninstalling
 uninstalls
