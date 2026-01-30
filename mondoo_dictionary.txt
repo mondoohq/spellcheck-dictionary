@@ -204,6 +204,7 @@ CCPA
 cdrom
 CDs
 centralus
+Certbot
 certinfo
 certs
 ceso
