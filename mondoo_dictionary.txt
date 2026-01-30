@@ -1685,6 +1685,7 @@ youtube
 ypserv
 Yvo
 yvovandoorn
+Zabbix
 zendesk
 zeroconf
 zerotouch
