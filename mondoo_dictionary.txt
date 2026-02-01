@@ -757,6 +757,7 @@ keypath
 keyring
 keyrings
 Keyspaces
+keystream
 keyutils
 keyvault
 kilby
@@ -1053,6 +1054,7 @@ OCIDs
 ocsp
 OCSP
 OEMs
+offboarding
 oggetti
 OIDC
 Ollama
@@ -1108,6 +1110,7 @@ personalise
 PFS
 PGP
 phish
+phished
 phishing
 Photoshop
 pid
@@ -1688,6 +1691,7 @@ yourtoken
 youruser
 youtube
 ypserv
+Yubi
 Yvo
 yvovandoorn
 Zabbix
