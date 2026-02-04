@@ -1059,6 +1059,7 @@ offboarding
 oggetti
 OIDC
 Ollama
+oneshot
 OOM
 opc
 opcua
