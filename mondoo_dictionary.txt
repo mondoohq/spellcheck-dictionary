@@ -1553,6 +1553,7 @@ uninstalls
 unsnoozes
 upcase
 upgradable
+UPSERT
 UPX
 url
 usecase
