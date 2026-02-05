@@ -124,6 +124,7 @@ awscodebuild
 awsec
 AWSEC
 awssecretsmanager
+azapi
 AZs
 azuread
 azurecr
