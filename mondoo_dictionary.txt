@@ -537,6 +537,7 @@ fstype
 ftp
 ftpd
 FTPS
+Fumadocs
 fwupd
 fwupdmgr
 gamify
@@ -858,6 +859,7 @@ machinename
 mailchimp
 mailjet
 makecache
+Makefile
 maken
 makeover
 malware
@@ -878,6 +880,7 @@ MCX
 mdash
 mdm
 MDM
+MDX
 mediasharingd
 mega
 Meggle
@@ -1117,6 +1120,7 @@ phish
 phished
 phishing
 Photoshop
+PHX
 pid
 PII
 PIM
