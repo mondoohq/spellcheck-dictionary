@@ -1402,6 +1402,7 @@ spaceid
 spacemrn
 spacex
 spam
+spammers
 spctl
 SPDXID
 speciale
