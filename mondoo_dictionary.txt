@@ -1307,6 +1307,7 @@ runtimes
 Runtimes
 rwcommunity
 rwuser
+Ryzen
 salesforce
 SAMEORIGIN
 samr
