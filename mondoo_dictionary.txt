@@ -274,6 +274,7 @@ coldline
 collectd
 commandline
 commitauthor
+committers
 Committers
 compat
 compinit
@@ -333,6 +334,7 @@ daemonset
 daemonsets
 Daemonsets
 danielwillshare
+DAST
 databaseusage
 datacenter
 Datacenter
@@ -373,6 +375,7 @@ dhclient
 dhcpd
 diagnosticsetting
 Diffie
+diffs
 DigiCert
 digitalocean
 dind
@@ -1309,6 +1312,7 @@ SAMEORIGIN
 samr
 SAMR
 sandboxed
+SAST
 sbin
 SBOM
 SCAP
