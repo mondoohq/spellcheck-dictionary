@@ -243,6 +243,7 @@ CLDAP
 cleartext
 CLF
 clickable
+Clickjacking
 CLIs
 cloudapp
 cloudbees
@@ -671,6 +672,7 @@ ICMPv
 iex
 iface
 iframe
+iframes
 igw
 IGWs
 IGZ
