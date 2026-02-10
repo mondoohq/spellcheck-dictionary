@@ -969,6 +969,7 @@ MSTP
 MSU
 MSV
 mtu
+multistring
 Münch
 Mundrawala
 mvd
