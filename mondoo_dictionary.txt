@@ -263,6 +263,7 @@ clusterrolebindings
 clusterroles
 cmdlets
 cmds
+CMEK
 CMK
 CMKs
 cnames
