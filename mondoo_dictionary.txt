@@ -212,6 +212,7 @@ certinfo
 certs
 ceso
 cfnresponse
+CFTC
 cgroupns
 cgroups
 CHACHA
@@ -523,6 +524,7 @@ Filestore
 filesystems
 FIM
 finalizers
+FINRA
 FIPS
 Firefox
 firewalld
@@ -1297,6 +1299,7 @@ rpcuser
 RPF
 RPMs
 rrdatas
+RRs
 rsa
 rsh
 rsquo
