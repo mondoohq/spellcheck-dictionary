@@ -3,6 +3,7 @@ Aanmelden
 aanmelding
 aarch
 AATP
+ABAC
 abcd
 Abmelden
 accessanalyzer
@@ -1188,6 +1189,7 @@ prelink
 Prelinking
 prereqs
 Preslav
+prettyjson
 Prevalidating
 printf
 prioritization
@@ -1489,7 +1491,6 @@ sysconfig
 sysctls
 sysfs
 syslogd
-sysrc
 sysrc
 systeemgebeurtenissen
 Systeemintegriteit
