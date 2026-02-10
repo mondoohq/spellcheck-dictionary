@@ -918,6 +918,7 @@ metricstatistics
 MFAV
 mgmt
 micheelengronne
+microsegmentation
 microsoftonline
 mindays
 minikube
