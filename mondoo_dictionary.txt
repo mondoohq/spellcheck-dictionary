@@ -460,6 +460,7 @@ entrypoint
 Entrypoint
 envvars
 eol
+EOL'ed
 EPDR
 EPERM
 EPSS
@@ -762,6 +763,7 @@ keychain
 keychains
 Keycloak
 keyctl
+KEYFILE
 keygen
 keyid
 keyloggers
@@ -876,6 +878,7 @@ maken
 makeover
 malware
 managedinstance
+MANIFESTFILE
 manpages
 marcellus
 mariadb
@@ -901,6 +904,7 @@ Memorystore
 Meraki
 mergeability
 mergerequest
+Merica
 Metasploit
 metastore
 metricdimension
