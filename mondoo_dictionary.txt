@@ -132,6 +132,7 @@ azuredocker
 azurerm
 azureuser
 backdoored
+backdoors
 backends
 backsplash
 baremetal
@@ -668,6 +669,7 @@ Hulud
 HVM
 hwclock
 Hypertext
+IAP
 iburst
 Icann
 ICANN
