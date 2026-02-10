@@ -532,11 +532,13 @@ flowlog
 flowlogs
 Forsgren
 Forti
+FOWNER
 fpath
 FQDNs
 freevxfs
 frontends
 FSBP
+FSETID
 fsize
 FSM
 fstype
@@ -1359,6 +1361,7 @@ Setgid
 setglobalpolicy
 sethostname
 setloggingmode
+SETPCAP
 setremoteappleevents
 setremotelogin
 setstealthmode
