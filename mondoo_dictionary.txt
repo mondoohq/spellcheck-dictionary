@@ -230,6 +230,7 @@ Choi
 chris
 chrony
 chronyd
+chsh
 cicd
 CIEM
 CIFS
@@ -1210,6 +1211,7 @@ PSPs
 PTR
 ptrace
 pubkey
+pwck
 pwpolicy
 pwsh
 pypi
@@ -1480,6 +1482,8 @@ sysconfig
 sysctls
 sysfs
 syslogd
+sysrc
+sysrc
 systeemgebeurtenissen
 Systeemintegriteit
 systemaccess
@@ -1532,6 +1536,7 @@ toc
 toepassingsgroepen
 tomtrix
 toolbar
+toor
 TOTP
 Traceroute
 transitioning
