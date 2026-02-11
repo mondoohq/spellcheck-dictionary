@@ -649,6 +649,7 @@ hashicorp
 hashivault
 haslett
 HCE
+hcvault
 HDD
 HDF
 headshots
@@ -840,6 +841,7 @@ lighttpd
 linecard
 lineinfile
 linkedin
+linted
 linting
 lithammer
 livello
