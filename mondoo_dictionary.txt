@@ -1681,6 +1681,7 @@ vsm
 VSM
 vsphere
 vswitch
+WAFs
 Wahlforss
 warmd
 warndays
