@@ -366,6 +366,7 @@ deliminated
 delle
 deprioritized
 deregistering
+desync
 Detaillierte
 dettagliata
 developerguide
