@@ -557,6 +557,7 @@ fwupd
 fwupdmgr
 gamify
 garmeeh
+GBs
 gce
 gcloud
 gcos
@@ -1084,6 +1085,7 @@ oci
 OCI
 OCID
 OCIDs
+OCPUs
 ocsp
 OCSP
 OEMs
@@ -1667,6 +1669,7 @@ VNC
 VNet
 VNic
 VNIC
+VNICs
 VOLUMEID
 voor
 VPC
