@@ -314,6 +314,7 @@ crond
 cronie
 crontabs
 crt
+Cryptomining
 cryptsetup
 CSPM
 cswitch
