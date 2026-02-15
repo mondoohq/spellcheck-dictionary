@@ -197,6 +197,7 @@ buildx
 Bundesamt
 BUSL
 bytecode
+Cachy
 CAcreateserial
 cafile
 calligo
@@ -342,6 +343,7 @@ Daemonsets
 danielwillshare
 DAST
 databaseusage
+Databricks
 datacenter
 Datacenter
 datacenters
@@ -671,6 +673,7 @@ hostmaster
 hostnames
 hotfixes
 Hotlink
+hotpatching
 Hpeo
 HPKP
 HSRP
@@ -1334,6 +1337,7 @@ rwcommunity
 rwuser
 Ryzen
 salesforce
+Salkin
 SAMEORIGIN
 samr
 SAMR
