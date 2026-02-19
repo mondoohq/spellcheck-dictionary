@@ -562,6 +562,7 @@ gamify
 garmeeh
 GBs
 gce
+GCLB
 gcloud
 gcos
 gcp
@@ -1003,6 +1004,7 @@ mysql
 mysqld
 mysqldump
 mywebserver
+NACL
 NACLs
 nameserver
 Nartac
