@@ -369,6 +369,7 @@ deliminated
 delle
 deprioritized
 deregistering
+deregistration
 desync
 Detaillierte
 dettagliata
@@ -1038,6 +1039,7 @@ nicolefv
 nics
 NIDS
 NLA
+NLB
 Nmap
 noatime
 noauth
