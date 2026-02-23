@@ -197,6 +197,7 @@ buildspec
 buildx
 Bundesamt
 BUSL
+BYOK
 bytecode
 Cachy
 CAcreateserial
