@@ -42,6 +42,7 @@ aks
 AKS
 almalinux
 alpinelinux
+ALPN
 Altri
 amazondynamodb
 amazonlinux
