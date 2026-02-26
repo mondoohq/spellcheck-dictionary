@@ -537,6 +537,7 @@ finalizers
 FINRA
 FIPS
 Firefox
+Firestore
 firewalld
 firewallrule
 firewalls
