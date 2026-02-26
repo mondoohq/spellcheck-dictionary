@@ -154,6 +154,7 @@ beveiligingsstatus
 beveiligingssysteem
 bevoegdheid
 bezier
+Bigtable
 BITBUCKET
 Bitcoin
 bitlocker
