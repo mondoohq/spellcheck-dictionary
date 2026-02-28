@@ -278,6 +278,7 @@ CNG
 cnqueries
 cnquery
 cnspec
+Codespaces
 coffeescript
 coldline
 collectd
