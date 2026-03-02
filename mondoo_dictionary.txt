@@ -1677,6 +1677,7 @@ vmnics
 vms
 VMs
 VMSA
+VMSS
 vmw
 vmware
 VNC
