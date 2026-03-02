@@ -173,6 +173,7 @@ bogon
 boomstats
 bootbank
 bootkits
+bootloaders
 botfather
 botnet
 botnets
@@ -223,6 +224,7 @@ cgroups
 CHACHA
 Chainguard
 changeme
+CHAPv
 chardevs
 chargeback
 charlesjohnson
@@ -665,6 +667,7 @@ hcvault
 HDD
 HDF
 headshots
+healthcheck
 healthz
 heatmap
 helmify
@@ -1137,6 +1140,7 @@ owa
 OWASP
 packethost
 packngo
+paravirtual
 passcode
 Passfilt
 passphrase
