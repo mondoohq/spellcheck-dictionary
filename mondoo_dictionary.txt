@@ -1750,6 +1750,7 @@ XMODIFIERS
 xorg
 xorima
 XPI
+WORKDIR
 xSPM
 xyrt
 yalow
