@@ -1030,6 +1030,7 @@ nearline
 negativo
 Negoexts
 netctl
+netdev
 netlogon
 NETLOGON
 networkacl
@@ -1616,6 +1617,7 @@ unsnoozes
 upcase
 upgradable
 UPSERT
+upstreams
 UPX
 url
 usecase
@@ -1738,6 +1740,7 @@ Wmi
 Wolfi
 workaround
 workarounds
+WORKDIR
 www
 xccdf
 XCCDF
@@ -1750,7 +1753,6 @@ XMODIFIERS
 xorg
 xorima
 XPI
-WORKDIR
 xSPM
 xyrt
 yalow
