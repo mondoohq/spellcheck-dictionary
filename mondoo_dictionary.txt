@@ -242,6 +242,7 @@ chsh
 cicd
 CIEM
 CIFS
+Cinc
 ciphersuite
 circleci
 cisa
