@@ -1744,6 +1744,7 @@ Wolfi
 workaround
 workarounds
 WORKDIR
+workgroups
 www
 xccdf
 XCCDF
