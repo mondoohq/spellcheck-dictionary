@@ -772,6 +772,7 @@ journalctl
 journaled
 jsmith
 jsonpath
+Junos
 jwt
 JWT
 Kandji
