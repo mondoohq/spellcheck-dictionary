@@ -1649,6 +1649,7 @@ usr
 utente
 utf
 UTF
+UTM
 utmp
 uucp
 uuid
