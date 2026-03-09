@@ -875,6 +875,7 @@ LMHOSTS
 loadbalancer
 loadbalancers
 localdomain
+lockdown
 loggroup
 logindef
 logindefs
