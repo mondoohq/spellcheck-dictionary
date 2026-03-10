@@ -255,6 +255,7 @@ CLDAP
 cleartext
 CLF
 clickable
+Click
 Clickjacking
 CLIs
 cloudapp
@@ -403,6 +404,7 @@ Disconnessione
 diskutil
 DISTRO
 Distroless
+distro
 distros
 dkimrecord
 dkr
@@ -633,6 +635,7 @@ GOPATH
 GOPRIVATE
 goprocinfo
 gopsutil
+goreleaser
 Gotchas
 govc
 govmomi
@@ -935,6 +938,7 @@ Meraki
 mergeability
 mergerequest
 Merica
+metapackage
 Metasploit
 metastore
 metricdimension
