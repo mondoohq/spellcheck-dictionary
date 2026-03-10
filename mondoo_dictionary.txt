@@ -254,8 +254,8 @@ Claude
 CLDAP
 cleartext
 CLF
-clickable
 Click
+clickable
 Clickjacking
 CLIs
 cloudapp
@@ -402,9 +402,9 @@ dind
 DISA
 Disconnessione
 diskutil
+distro
 DISTRO
 Distroless
-distro
 distros
 dkimrecord
 dkr
@@ -447,6 +447,7 @@ dvs
 DVWA
 dword
 EACCES
+EAP
 EAP
 eapi
 eastus
