@@ -162,6 +162,7 @@ bitlocker
 Bitwarden
 blackburn
 blindsided
+Blobstore
 Blocco
 blocklist
 BLOCKLIST
@@ -431,6 +432,7 @@ domainlist
 domainname
 dominikrichter
 dotnet
+Doublings
 downcase
 DPIA
 dpkg
@@ -502,6 +504,7 @@ esxcli
 esxi
 ESXi
 etag
+ETL
 eurolinux
 EUS
 eventaudit
@@ -815,6 +818,7 @@ Keyspaces
 keystream
 keyutils
 keyvault
+KFP
 kilby
 killalea
 kmacgugan
@@ -1379,6 +1383,7 @@ SAMEORIGIN
 samr
 SAMR
 sandboxed
+SASL
 SAST
 sbin
 SBOM
