@@ -1,3 +1,4 @@
+
 aan
 Aanmelden
 aanmelding
@@ -342,6 +343,7 @@ cvss
 CVSS
 CVSSv
 CWD
+CWE
 CWPP
 cyberattacks
 Cybercriminals
@@ -447,7 +449,6 @@ dvs
 DVWA
 dword
 EACCES
-EAP
 EAP
 eapi
 eastus
@@ -648,6 +649,7 @@ gpgkey
 gpgsignature
 GPMC
 GPME
+GPU
 gpupdate
 grantae
 grayscale
@@ -666,6 +668,7 @@ GTM
 guestinfo
 Gugan
 gui
+Hadoop
 harddisk
 hashi
 Hashi
@@ -680,6 +683,7 @@ headshots
 healthcheck
 healthz
 heatmap
+HEC
 helmify
 hfs
 HGFS
@@ -703,6 +707,7 @@ https
 Hulud
 HVM
 hwclock
+hyperparameters
 Hypertext
 IAP
 iburst
@@ -766,6 +771,7 @@ IVs
 Jamf
 jaybrueder
 jaym
+JDBC
 JDK
 jeffersonstarchip
 jenkins
@@ -1217,7 +1223,6 @@ POSIX
 Postgre
 postgresql
 postrouting
-postrouting
 powershellgallery
 powershellsdk
 Prebuilt
@@ -1270,6 +1275,7 @@ QPS
 Qualys
 quickstart
 Quidenus
+RabbitMQ
 Radeon
 ramdisk
 ransomware
@@ -1474,11 +1480,13 @@ spacex
 spam
 spammers
 spctl
+SPDX
 SPDXID
 speciale
 Speciale
 Spezielle
 spf
+Splunk
 SPM
 Spnego
 SPOOLSS
@@ -1486,6 +1494,7 @@ spyware
 Spyware
 SRE
 SREs
+SRT
 SRX
 ssd
 SSDP
@@ -1632,6 +1641,7 @@ uninstaller
 uninstalling
 uninstalls
 unsnoozes
+untriaged
 unvetted
 upcase
 upgradable
