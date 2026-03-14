@@ -1657,6 +1657,7 @@ untriaged
 unvetted
 upcase
 upgradable
+UPn
 UPSERT
 upstreams
 UPX
