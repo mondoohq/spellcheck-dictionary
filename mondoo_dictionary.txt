@@ -703,6 +703,7 @@ hostnames
 hotfixes
 Hotlink
 hotpatching
+hotspot
 Hpeo
 HPKP
 HSRP
