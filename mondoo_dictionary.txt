@@ -211,6 +211,7 @@ Calligo
 CAs
 Cbatch
 cci
+CCMP
 CCPA
 CDPv
 cdrom
@@ -1211,6 +1212,7 @@ Plugand
 Pluggable
 plugins
 Plugins
+PMF
 podman
 podsecuritypolicy
 poincare
@@ -1598,6 +1600,7 @@ timezone
 tinyproxy
 Tinyproxy
 TISAX
+TKIP
 TLDs
 tlsv
 TLSv
@@ -1761,6 +1764,7 @@ webinar
 webinars
 websites
 Wechselmedien
+WEP
 westus
 whois
 WIF
@@ -1773,12 +1777,14 @@ winrm
 wireformat
 Wireshark
 Wix
+WLANs
 Wmi
 Wolfi
 workaround
 workarounds
 WORKDIR
 workgroups
+WPA
 www
 xccdf
 XCCDF
