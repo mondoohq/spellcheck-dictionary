@@ -770,6 +770,7 @@ iptable
 IRSA
 ISAC
 isp
+ISPs
 issuecomment
 ITSM
 ivanmilchev
