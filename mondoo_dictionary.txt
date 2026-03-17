@@ -979,6 +979,7 @@ mkconfig
 mkdir
 mkfifo
 mktemp
+MLKEM
 mnt
 mockgen
 modifica
@@ -1403,6 +1404,7 @@ scp
 screencast
 screensaver
 screenshots
+SCTs
 sda
 sdk
 SDK
