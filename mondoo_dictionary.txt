@@ -48,6 +48,7 @@ amazondynamodb
 amazonlinux
 amd
 AMSI
+amz
 amzn
 anacron
 andere
