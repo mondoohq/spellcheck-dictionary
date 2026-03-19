@@ -10,6 +10,7 @@ accessanalyzer
 accesso
 Accountvergrendeling
 Acked
+ACLId
 acpid
 adkim
 admins
@@ -84,6 +85,7 @@ AROA
 arpa
 arpversion
 arttor
+ASFF
 ASLR
 asn
 asns
@@ -196,6 +198,7 @@ BSU
 btrfs
 bubbletea
 bugfix
+buildah
 Buildingasoftwareproject
 buildroot
 buildspec
@@ -261,6 +264,7 @@ CLF
 Click
 clickable
 Clickjacking
+Clickstream
 CLIs
 cloudapp
 cloudbees
@@ -287,6 +291,7 @@ CNG
 cnqueries
 cnquery
 cnspec
+codebases
 Codespaces
 coffeescript
 coldline
@@ -490,6 +495,7 @@ eol
 EOL'ed
 EPDR
 EPERM
+EPP
 EPSS
 equinix
 Erchef
@@ -1343,6 +1349,7 @@ RKE
 rlogin
 rmmod
 roadmap
+Robocopy
 rockylinux
 roleassignment
 rolebinding
