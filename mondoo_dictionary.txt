@@ -1432,6 +1432,7 @@ servicemanagement
 serviceprincipal
 sessione
 setdomainname
+setenforce
 SETENV
 Setgid
 setglobalpolicy
