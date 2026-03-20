@@ -709,6 +709,7 @@ hostmaster
 hostnames
 hotfixes
 Hotlink
+hotpatch
 hotpatching
 hotspot
 Hpeo
