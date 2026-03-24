@@ -857,8 +857,8 @@ kubelets
 kubelogin
 kubernetes
 Kubernetes
-kustomization
-Kustomize
+kustomizations
+kustomize
 Kyleen
 LACP
 Lanman
