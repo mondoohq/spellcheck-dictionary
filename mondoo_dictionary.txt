@@ -696,6 +696,7 @@ healthcheck
 healthz
 heatmap
 HEC
+Helm
 helmify
 hfs
 HGFS
