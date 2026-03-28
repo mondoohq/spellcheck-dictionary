@@ -682,6 +682,7 @@ GTM
 guestinfo
 Gugan
 gui
+hadolint
 Hadoop
 harddisk
 hashi
