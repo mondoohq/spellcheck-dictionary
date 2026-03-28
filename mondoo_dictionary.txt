@@ -368,6 +368,7 @@ datacenter
 Datacenter
 datacenters
 dataloss
+dataplane
 datapoints
 dataproc
 datareport
@@ -1132,6 +1133,7 @@ ntpsetting
 nulllist
 NUOI
 nupkg
+NVAs
 nvd
 nvme
 NXDOMAIN
