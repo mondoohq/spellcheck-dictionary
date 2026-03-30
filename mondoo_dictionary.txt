@@ -1384,6 +1384,7 @@ rsquo
 rsyncd
 rsyslog
 Rsyslog
+RTO
 rtspd
 rua
 RUA
