@@ -336,6 +336,7 @@ crontabs
 crt
 Cryptomining
 cryptsetup
+CSAF
 CSPM
 cswitch
 cta
@@ -380,6 +381,7 @@ dbinstance
 DBKMS
 dbs
 dbus
+DDM
 dearmor
 deauthentication
 debian
@@ -507,6 +509,7 @@ Errore
 errored
 ESET
 Esito
+ESPOS
 ESPM
 Estensione
 esx
@@ -994,6 +997,7 @@ mkconfig
 mkdir
 mkfifo
 mktemp
+MLAG
 MLKEM
 mnt
 mockgen
@@ -1251,6 +1255,7 @@ postgresql
 postrouting
 powershellgallery
 powershellsdk
+PQC
 Prebuilt
 precomputation
 preemptibility
@@ -1465,6 +1470,7 @@ sgid
 Shai
 sharepoint
 sharepointonline
+shellcheck
 shirou
 shodan
 Shodan
@@ -1610,6 +1616,7 @@ terminfo
 terraform
 Terraform
 terraformrc
+tflint
 tfmodule
 tfplan
 tfstate
