@@ -701,6 +701,7 @@ heatmap
 HEC
 Helm
 helmify
+Hetzner
 hfs
 HGFS
 HKCU
