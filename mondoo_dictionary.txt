@@ -509,8 +509,8 @@ Errore
 errored
 ESET
 Esito
-ESPOS
 ESPM
+ESPOS
 Estensione
 esx
 esxcli
@@ -943,6 +943,7 @@ Makefile
 maken
 makeover
 malware
+Malwarebytes
 managedinstance
 MANIFESTFILE
 manpages
