@@ -689,6 +689,7 @@ Gugan
 gui
 hadolint
 Hadoop
+HANA
 harddisk
 hashi
 Hashi
