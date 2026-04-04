@@ -172,6 +172,7 @@ blocklist
 BLOCKLIST
 blocklisted
 blocklisting
+blocklists
 blogs
 Bluetooth
 Bobberson
@@ -1405,6 +1406,7 @@ RUF
 ruleset
 rulesets
 runas
+runbooks
 runc
 runningconfig
 runtimes
@@ -1472,6 +1474,7 @@ setstealthmode
 settime
 settimeofday
 sgid
+SGs
 Shai
 sharepoint
 sharepointonline
