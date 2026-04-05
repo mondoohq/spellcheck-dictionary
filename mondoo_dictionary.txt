@@ -1840,6 +1840,7 @@ xfvz
 XMODIFIERS
 xorg
 xorima
+CEL
 XPI
 xSPM
 xyrt
