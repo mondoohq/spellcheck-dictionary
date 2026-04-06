@@ -222,6 +222,7 @@ CCPA
 CDPv
 cdrom
 CDs
+CEL
 centralus
 Certbot
 certinfo
@@ -1440,6 +1441,7 @@ sdk
 SDK
 seccomp
 secdb
+SECG
 seclabel
 secp
 secpol
@@ -1840,7 +1842,6 @@ xfvz
 XMODIFIERS
 xorg
 xorima
-CEL
 XPI
 xSPM
 xyrt
