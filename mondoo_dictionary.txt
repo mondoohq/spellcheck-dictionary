@@ -1686,6 +1686,7 @@ Uitbreiding
 unarchived
 Unassigns
 uncompress
+Unconfigured
 und
 underutilized
 Unicode
