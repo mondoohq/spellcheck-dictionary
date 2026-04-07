@@ -138,7 +138,6 @@ azurecr
 azuredocker
 azurerm
 azureuser
-BFD
 backdoored
 backdoors
 backends
@@ -160,6 +159,7 @@ beveiligingsstatus
 beveiligingssysteem
 bevoegdheid
 bezier
+BFD
 Bigtable
 BITBUCKET
 Bitcoin
@@ -387,6 +387,7 @@ DBKMS
 dbs
 dbus
 DDM
+DDNS
 dearmor
 deauthentication
 debian
@@ -409,9 +410,9 @@ deviceconfiguration
 devicemanagement
 devsec
 dfsg
-DHCP
 DHBEXAMPLE
 dhclient
+DHCP
 dhcpd
 diagnosticsetting
 Diffie
@@ -1133,8 +1134,8 @@ nsa
 nset
 nslookup
 nsock
-NSSA
 NSPM
+NSSA
 NSX
 NTC
 NTDS
@@ -1301,9 +1302,9 @@ provisioners
 proxiable
 Prozesserstellung
 psconfig
+PSIRT
 PSKs
 PSOs
-PSIRT
 psp
 PSPs
 PTR
