@@ -138,6 +138,7 @@ azurecr
 azuredocker
 azurerm
 azureuser
+BFD
 backdoored
 backdoors
 backends
@@ -408,6 +409,7 @@ deviceconfiguration
 devicemanagement
 devsec
 dfsg
+DHCP
 DHBEXAMPLE
 dhclient
 dhcpd
@@ -1131,6 +1133,7 @@ nsa
 nset
 nslookup
 nsock
+NSSA
 NSPM
 NSX
 NTC
