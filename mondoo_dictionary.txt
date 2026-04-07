@@ -145,6 +145,7 @@ backsplash
 baremetal
 basearch
 baseos
+baselining
 bcicen
 Beheer
 Beleid
@@ -338,6 +339,7 @@ crond
 cronie
 crontabs
 crt
+Cryptojacking
 Cryptomining
 cryptsetup
 CSAF
@@ -536,6 +538,7 @@ exchangeonline
 exclusionsetting
 executionrole
 exfiltrated
+exfiltrates
 exitcode
 expiresin
 expirydates
@@ -1747,6 +1750,7 @@ VDA
 vdc
 VDCs
 VDS
+VHDs
 veos
 vercel
 versioned
