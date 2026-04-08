@@ -225,6 +225,7 @@ CDPv
 cdrom
 CDs
 CEL
+Censys
 centralus
 Certbot
 certinfo
@@ -584,6 +585,7 @@ flowlog
 flowlogs
 Forsgren
 Forti
+FMG
 FOWNER
 fpath
 FPCs
@@ -1103,6 +1105,7 @@ nfs
 nfsd
 nfsnobody
 nftables
+NGFW
 nic
 nicolefv
 nics
