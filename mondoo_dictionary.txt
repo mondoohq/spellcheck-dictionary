@@ -144,8 +144,8 @@ backends
 backsplash
 baremetal
 basearch
-baseos
 baselining
+baseos
 bcicen
 Beheer
 Beleid
@@ -210,6 +210,7 @@ buildx
 Bundesamt
 BUSL
 BYOK
+BYOS
 bytecode
 Cachy
 CAcreateserial
@@ -583,9 +584,9 @@ Firewatch
 firstminute
 flowlog
 flowlogs
+FMG
 Forsgren
 Forti
-FMG
 FOWNER
 fpath
 FPCs
@@ -1753,7 +1754,6 @@ VDA
 vdc
 VDCs
 VDS
-VHDs
 veos
 vercel
 versioned
@@ -1764,6 +1764,7 @@ Verwisselbare
 vfat
 VGT
 vgwtelemetry
+VHDs
 vib
 vibs
 victoriadjeffrey
