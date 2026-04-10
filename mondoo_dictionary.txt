@@ -398,6 +398,7 @@ debian
 Debian
 debugfs
 debuginfo
+deidentify
 DEK
 deliminated
 delle
@@ -921,6 +922,7 @@ lithammer
 livello
 livez
 LLMNR
+LLMs
 LLSRPC
 llx
 LMHOSTS
@@ -1566,6 +1568,7 @@ sshfs
 sshkey
 sshkeys
 SSLv
+SSNs
 SSPI
 SSPM
 SSPR
@@ -1856,7 +1859,6 @@ xfvz
 XMODIFIERS
 xorg
 xorima
-LLMs
 XPI
 xSPM
 xyrt
