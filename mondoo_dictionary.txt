@@ -1517,6 +1517,7 @@ SLES
 Slideshows
 SLOs
 slpd
+Slurm
 smbd
 SMBv
 Smurf
