@@ -1196,6 +1196,7 @@ OSPF
 OSSF
 Oswalt
 osxfuse
+OTX
 OUs
 outfile
 overprivileged
@@ -1591,6 +1592,7 @@ stedolan
 sth
 stig
 STIGs
+STIX
 stp
 stretchr
 Stupakov
