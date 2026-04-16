@@ -745,6 +745,7 @@ https
 Hulud
 HVM
 hwclock
+Hyperband
 hyperparameters
 Hypertext
 IAP
@@ -1375,6 +1376,7 @@ resourcechange
 resourcemanager
 respawn
 restapi
+retryable
 RFCs
 RHCOS
 rhosts
@@ -1858,7 +1860,6 @@ XCCDF
 xdev
 xen
 xfreerdp
-retryable
 xfs
 xfvz
 XMODIFIERS
