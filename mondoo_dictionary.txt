@@ -1703,6 +1703,7 @@ ufw
 uid
 uids
 uint
+UIs
 Uitbreiding
 unarchived
 Unassigns
@@ -1852,6 +1853,7 @@ Wolfi
 workaround
 workarounds
 WORKDIR
+workforces
 workgroups
 WPA
 www
