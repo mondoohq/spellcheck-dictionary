@@ -502,6 +502,7 @@ emojis
 emr
 ena
 ENI
+ENIs
 enmod
 Entra
 entrypoint
@@ -1371,6 +1372,7 @@ remediates
 remediations
 replicaset
 replicasets
+replicator
 repodata
 Reputational
 resolv
