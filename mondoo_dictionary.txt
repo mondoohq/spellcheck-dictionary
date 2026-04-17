@@ -141,6 +141,7 @@ azureuser
 backdoored
 backdoors
 backends
+backports
 backsplash
 baremetal
 basearch
@@ -1386,6 +1387,7 @@ rimovibili
 riuscita
 RKE
 rlogin
+RMAN
 rmmod
 roadmap
 Robocopy
@@ -1521,6 +1523,7 @@ SLES
 Slideshows
 SLOs
 slpd
+SLSA
 Slurm
 smbd
 SMBv
