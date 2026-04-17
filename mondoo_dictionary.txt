@@ -1,3 +1,4 @@
+
 aan
 Aanmelden
 aanmelding
@@ -830,6 +831,8 @@ jsonpath
 Junos
 jwt
 JWT
+JWTs
+KAJ
 Kandji
 Karpenter
 KBs
@@ -1325,6 +1328,7 @@ PSPs
 PTR
 ptrace
 pubkey
+PVs
 pwck
 pwpolicy
 pwsh
