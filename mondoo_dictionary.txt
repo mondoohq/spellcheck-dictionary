@@ -126,6 +126,7 @@ autoscale
 Autoscale
 autoscaler
 autoupdate
+AVRO
 aws
 awscli
 awscloudtrail
@@ -1400,6 +1401,7 @@ rmmod
 roadmap
 Robocopy
 rockylinux
+RODC
 roleassignment
 rolebinding
 rolebindings
@@ -1420,8 +1422,10 @@ RPMs
 rrdatas
 RRs
 rsa
+RSAES
 rsh
 rsquo
+RStudio
 rsyncd
 rsyslog
 Rsyslog
