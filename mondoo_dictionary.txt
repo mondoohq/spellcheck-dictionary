@@ -451,8 +451,10 @@ DNT
 Dockerfiles
 dockerhub
 dockerimage
+doctl
 Docu
 dokken
+DOKS
 domaindnsrecord
 domainkey
 domainlist
@@ -1522,6 +1524,7 @@ Sicherheitsstatus
 Sicherheitssystemerweiterung
 sicurezza
 sid
+sidejacking
 SIDs
 SIEM
 signup
