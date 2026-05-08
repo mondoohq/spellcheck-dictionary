@@ -10,9 +10,11 @@ Abmelden
 accessanalyzer
 accesso
 Accountvergrendeling
+ACI
 Acked
 ACLId
 acpid
+ACR
 ADCS
 adkim
 admins
@@ -41,6 +43,7 @@ aidecheck
 aideinit
 AIPA
 aix
+Akismet
 aks
 AKS
 almalinux
@@ -89,6 +92,7 @@ arpversion
 arttor
 ASBR
 ASFF
+ASGs
 ASLR
 asn
 asns
@@ -181,6 +185,7 @@ blocklisting
 blocklists
 blogs
 Bluetooth
+BMC
 Bobberson
 bogon
 boomstats
@@ -232,12 +237,14 @@ CDs
 CEL
 Censys
 centralus
+Centrify
 Certbot
 certinfo
 certs
 ceso
 cfnresponse
 CFTC
+CGNAT
 cgroupns
 cgroups
 CHACHA
@@ -301,6 +308,7 @@ Cnext
 CNG
 cnqueries
 cnquery
+CNs
 cnspec
 codebases
 Codespaces
@@ -325,6 +333,7 @@ controllo
 controlplane
 controltower
 Convalida
+cooldown
 Cooldown
 copyleft
 coredns
@@ -381,6 +390,7 @@ Databricks
 datacenter
 Datacenter
 datacenters
+datadoghq
 dataloss
 dataplane
 datapoints
@@ -490,6 +500,7 @@ ecdsa
 ecparam
 ecr
 ECSPM
+EDNS
 edocker
 EDR
 efixes
@@ -718,6 +729,7 @@ hashicorp
 hashivault
 haslett
 HCE
+HCI
 hcvault
 HDD
 HDF
@@ -744,6 +756,7 @@ Hotlink
 hotpatch
 hotpatching
 hotspot
+HPE
 Hpeo
 HPKP
 HSRP
@@ -834,6 +847,7 @@ journaled
 jsmith
 jsonpath
 Junos
+JVM
 jwt
 JWT
 JWTs
@@ -855,12 +869,14 @@ KEYFILE
 keygen
 keyid
 keyloggers
+keymap
 keyname
 keypair
 keypairs
 keypath
 keyring
 keyrings
+keyspace
 Keyspaces
 keystream
 keyutils
@@ -948,10 +964,12 @@ logindefs
 loglevel
 Logon
 logprofile
+logstream
 lpd
 LSA
 lsarpc
 LSARPC
+lstrip
 LTS
 LTSB
 LTSC
@@ -996,6 +1014,7 @@ MDX
 mediasharingd
 mega
 Meggle
+meid
 Memorystore
 Meraki
 mergeability
@@ -1119,6 +1138,7 @@ nextjs
 nfs
 nfsd
 nfsnobody
+NFSv
 nftables
 NGFW
 nic
@@ -1183,6 +1203,7 @@ OCI
 OCID
 OCIDs
 OCPUs
+OCSF
 ocsp
 OCSP
 OEMs
@@ -1209,6 +1230,7 @@ OSPF
 OSSF
 Oswalt
 osxfuse
+OTP
 OTX
 OUs
 outfile
@@ -1219,6 +1241,7 @@ overutilization
 ovf
 OVF
 ovm
+OVS
 owa
 OWASP
 packethost
@@ -1228,6 +1251,7 @@ passcode
 Passfilt
 passphrase
 passphrases
+passthrough
 Passwordless
 passwordpolicy
 Pauti
@@ -1333,6 +1357,8 @@ PSPs
 PTR
 ptrace
 pubkey
+PVLAN
+PVR
 PVs
 pwck
 pwpolicy
@@ -1827,6 +1853,7 @@ voor
 VPC
 vpnconnection
 VPNs
+VPS
 vpx
 VRF
 vsan
@@ -1847,6 +1874,7 @@ WDAC
 WDATP
 WDigest
 weaponized
+webcam
 Webex
 webhooks
 webinar
