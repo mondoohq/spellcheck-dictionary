@@ -338,6 +338,7 @@ controllo
 controlplane
 controltower
 Convalida
+Cookstyle
 cooldown
 Cooldown
 copyleft
