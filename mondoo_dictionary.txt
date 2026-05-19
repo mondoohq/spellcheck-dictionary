@@ -218,6 +218,7 @@ buildspec
 buildx
 Bundesamt
 BUSL
+BYOD
 BYOK
 BYOS
 bytecode
@@ -231,6 +232,7 @@ Cbatch
 cci
 CCMP
 CCPA
+CDMA
 CDPv
 cdrom
 CDs
@@ -315,6 +317,8 @@ Codespaces
 coffeescript
 coldline
 collectd
+colo
+colocation
 commandline
 commitauthor
 committers
@@ -327,6 +331,7 @@ config
 configmap
 configmaps
 configurability
+conntrack
 containerd
 controleren
 controllo
@@ -400,10 +405,13 @@ datasources
 Dateifreigabe
 dbcluster
 dbed
+DBFS
 dbinstance
 DBKMS
+DBRS
 dbs
 dbus
+DCs
 DDM
 DDNS
 dearmor
@@ -432,7 +440,10 @@ dfsg
 DHBEXAMPLE
 dhclient
 DHCP
+dhcpcd
 dhcpd
+dhcpv
+DHE
 diagnosticsetting
 Diffie
 diffs
@@ -441,6 +452,7 @@ digitalocean
 dind
 DISA
 Disconnessione
+discriminants
 diskutil
 distro
 DISTRO
@@ -481,11 +493,13 @@ Dropbox
 drs
 DSBL
 dsenableroot
+DSTU
 DTDs
 dualstack
 dumplog
 Dutschke
 DVD
+DVR
 dvs
 DVWA
 dword
@@ -497,6 +511,7 @@ easyredir
 EBGP
 ebtables
 ecdsa
+ECP
 ecparam
 ecr
 ECSPM
@@ -517,7 +532,9 @@ emoji
 emojis
 emr
 ena
+encryptor
 ENI
+ENIId
 ENIs
 enmod
 Entra
@@ -568,6 +585,7 @@ eXtensible
 extfile
 facebook
 Facetune
+failback
 FAQs
 Fargate
 favicon
@@ -612,6 +630,7 @@ FPCs
 FQDNs
 freeable
 freevxfs
+frontdoor
 frontends
 FSBP
 FSETID
@@ -621,6 +640,7 @@ fstype
 ftp
 ftpd
 FTPS
+fumadocs
 Fumadocs
 fwupd
 fwupdmgr
@@ -697,6 +717,7 @@ gpg
 gpgcheck
 gpgkey
 gpgsignature
+GPLv
 GPMC
 GPME
 GPU
@@ -712,6 +733,7 @@ Gruppenmitgliedschaft
 gruppi
 gserviceaccount
 gshadow
+GSM
 GSSAPI
 gsutil
 gtm
@@ -719,6 +741,7 @@ GTM
 guestinfo
 Gugan
 gui
+GZRS
 hadolint
 Hadoop
 HANA
@@ -749,13 +772,16 @@ hklm
 HMAC
 hostipc
 hostkey
+hostkeys
 hostmaster
 hostnames
 hotfixes
+hotlink
 Hotlink
 hotpatch
 hotpatching
 hotspot
+HPC
 HPE
 Hpeo
 HPKP
@@ -774,6 +800,7 @@ iburst
 Icann
 ICANN
 ICMPv
+IDCS
 iex
 iface
 iframe
@@ -833,6 +860,7 @@ Jamf
 jaybrueder
 jaym
 JDBC
+jdiaz
 JDK
 jeffersonstarchip
 jenkins
@@ -844,6 +872,7 @@ jmespath
 jmesquery
 journalctl
 journaled
+JSM
 jsmith
 jsonpath
 Junos
@@ -856,6 +885,7 @@ Kandji
 Karpenter
 KBs
 KDE
+KEDA
 keepalive
 keepalives
 kembe
@@ -890,6 +920,7 @@ kmf
 kmod
 Kontosperrung
 KPIs
+KQL
 krb
 KRITIS
 KSA
@@ -963,6 +994,7 @@ loggroup
 logindef
 logindefs
 loglevel
+logon
 Logon
 logprofile
 logstream
@@ -1011,6 +1043,7 @@ MCX
 mdash
 mdm
 MDM
+MDMs
 MDX
 mediasharingd
 mega
@@ -1118,6 +1151,7 @@ natd
 nats
 nbsp
 ncat
+NCUs
 ndb
 nderung
 nderungen
@@ -1197,6 +1231,8 @@ nvd
 nvme
 NXDOMAIN
 nyc
+OAC
+OAI
 objecttoegang
 Objektzugriffsereignisse
 oci
@@ -1225,7 +1261,9 @@ operatorhub
 Operazione
 opkg
 opslag
+ORDS
 orgs
+OSGi
 oslogin
 OSPF
 OSSF
@@ -1269,6 +1307,7 @@ Pentoo
 permissioning
 personalise
 PFS
+PFSMM
 PGP
 phish
 phished
@@ -1276,6 +1315,7 @@ phishing
 Photoshop
 PHX
 pid
+Pids
 PII
 PIM
 PITR
@@ -1387,6 +1427,7 @@ readyz
 rearview
 rebaseable
 rebootpending
+recaptcha
 Rechten
 recordset
 redhat
@@ -1409,8 +1450,10 @@ remediations
 replicaset
 replicasets
 replicator
+replicators
 repodata
 Reputational
+reshard
 resolv
 resourcechange
 resourcemanager
@@ -1437,6 +1480,7 @@ rolebinding
 rolebindings
 roledefinition
 rolemanagement
+rollup
 rootcertificates
 rootfs
 rootkit
@@ -1599,6 +1643,7 @@ speciale
 Speciale
 Spezielle
 spf
+SPIFFE
 Splunk
 SPM
 SPN
@@ -1656,6 +1701,7 @@ suse
 sva
 SVA
 switchport
+switchports
 sysadminstories
 syscall
 syscalls
@@ -1701,9 +1747,12 @@ tfplan
 tfstate
 tfvars
 tgz
+throughputs
 thumbprints
 timedatectl
+timeframe
 timemachine
+timestream
 Timestream
 timesyncd
 timezone
@@ -1722,6 +1771,7 @@ tomtrix
 toolbar
 toor
 TOTP
+traceroute
 Traceroute
 transitioning
 trendlines
@@ -1733,6 +1783,7 @@ tsv
 ttl
 TTLs
 tunables
+Turbopack
 TVs
 typeof
 typescriptlang
@@ -1866,6 +1917,7 @@ vsm
 VSM
 vsphere
 vswitch
+VVOL
 WAFs
 Wahlforss
 warmd
